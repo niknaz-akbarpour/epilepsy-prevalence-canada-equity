@@ -1,0 +1,799 @@
+geography,sex,age_group_type,age_group,fiscal_year,prevalence_percent,standard_error,lower_95_ci,upper_95_ci,prevalence_cv_percent,case_counts,population
+Canada,Both sexes,Total,1+,2005–2006,0.62,0.0016,0.62,0.63,0.26,151195.0,24299845.0
+Canada,Females,Total,1+,2005–2006,0.6,0.0022,0.6,0.61,0.37,74005.0,12257445.0
+Canada,Males,Total,1+,2005–2006,0.64,0.0023,0.64,0.65,0.36,77190.0,12042400.0
+Canada,Both sexes,Total,1+,2006–2007,0.65,0.0016,0.65,0.66,0.25,159505.0,24448750.0
+Canada,Females,Total,1+,2006–2007,0.63,0.0023,0.63,0.64,0.36,78060.0,12339915.0
+Canada,Males,Total,1+,2006–2007,0.67,0.0024,0.67,0.68,0.35,81445.0,12108840.0
+Canada,Both sexes,Total,1+,2007–2008,0.68,0.0017,0.68,0.68,0.24,167615.0,24661775.0
+Canada,Females,Total,1+,2007–2008,0.66,0.0023,0.65,0.66,0.35,81970.0,12451435.0
+Canada,Males,Total,1+,2007–2008,0.7,0.0024,0.7,0.71,0.34,85645.0,12210335.0
+Canada,Both sexes,Total,1+,2008–2009,0.71,0.0017,0.7,0.71,0.24,180360.0,25494055.0
+Canada,Females,Total,1+,2008–2009,0.68,0.0023,0.68,0.69,0.34,88160.0,12871490.0
+Canada,Males,Total,1+,2008–2009,0.73,0.0024,0.73,0.74,0.33,92200.0,12622570.0
+Canada,Both sexes,Total,1+,2009–2010,0.73,0.0017,0.73,0.73,0.23,188280.0,25831445.0
+Canada,Females,Total,1+,2009–2010,0.7,0.0023,0.7,0.71,0.33,91880.0,13042775.0
+Canada,Males,Total,1+,2009–2010,0.75,0.0024,0.75,0.76,0.32,96405.0,12788680.0
+Canada,Both sexes,Total,1+,2010–2011,0.75,0.0017,0.75,0.75,0.23,196760.0,26248430.0
+Canada,Females,Total,1+,2010–2011,0.72,0.0023,0.72,0.73,0.32,95930.0,13248840.0
+Canada,Males,Total,1+,2010–2011,0.78,0.0024,0.77,0.78,0.31,100830.0,12999590.0
+Canada,Both sexes,Total,1+,2011–2012,0.77,0.0017,0.77,0.78,0.22,205665.0,26646220.0
+Canada,Females,Total,1+,2011–2012,0.75,0.0024,0.74,0.75,0.32,100260.0,13441860.0
+Canada,Males,Total,1+,2011–2012,0.8,0.0025,0.79,0.8,0.31,105405.0,13204365.0
+Canada,Both sexes,Total,1+,2012–2013,0.79,0.0017,0.79,0.79,0.22,213995.0,27064185.0
+Canada,Females,Total,1+,2012–2013,0.76,0.0024,0.76,0.77,0.31,104140.0,13642455.0
+Canada,Males,Total,1+,2012–2013,0.82,0.0025,0.81,0.82,0.3,109860.0,13421735.0
+Canada,Both sexes,Total,1+,2013–2014,0.81,0.0017,0.81,0.81,0.21,222520.0,27455760.0
+Canada,Females,Total,1+,2013–2014,0.78,0.0024,0.78,0.79,0.3,108195.0,13830305.0
+Canada,Males,Total,1+,2013–2014,0.84,0.0025,0.83,0.84,0.3,114320.0,13625450.0
+Canada,Both sexes,Total,1+,2014–2015,0.83,0.0017,0.83,0.83,0.21,231020.0,27795055.0
+Canada,Females,Total,1+,2014–2015,0.8,0.0024,0.8,0.81,0.3,112025.0,13995415.0
+Canada,Males,Total,1+,2014–2015,0.86,0.0025,0.86,0.87,0.29,119000.0,13799640.0
+Canada,Both sexes,Total,1+,2015–2016,0.85,0.0017,0.85,0.86,0.2,239850.0,28134070.0
+Canada,Females,Total,1+,2015–2016,0.82,0.0024,0.82,0.82,0.29,116110.0,14163030.0
+Canada,Males,Total,1+,2015–2016,0.89,0.0025,0.88,0.89,0.28,123740.0,13971040.0
+Canada,Both sexes,Total,1+,2016–2017,0.87,0.0017,0.87,0.88,0.2,249145.0,28534900.0
+Canada,Females,Total,1+,2016–2017,0.84,0.0024,0.83,0.84,0.29,120520.0,14362280.0
+Canada,Males,Total,1+,2016–2017,0.91,0.0025,0.9,0.91,0.28,128625.0,14172615.0
+Canada,Both sexes,Total,1+,2017–2018,0.89,0.0018,0.89,0.9,0.2,258165.0,28935795.0
+Canada,Females,Total,1+,2017–2018,0.86,0.0024,0.85,0.86,0.28,124780.0,14560435.0
+Canada,Males,Total,1+,2017–2018,0.93,0.0025,0.92,0.93,0.27,133385.0,14375360.0
+Canada,Both sexes,Total,1+,2018–2019,0.91,0.0018,0.9,0.91,0.19,267195.0,29413735.0
+Canada,Females,Total,1+,2018–2019,0.87,0.0024,0.87,0.88,0.28,129035.0,14794855.0
+Canada,Males,Total,1+,2018–2019,0.95,0.0025,0.94,0.95,0.27,138160.0,14618885.0
+Canada,Both sexes,Total,1+,2019–2020,0.92,0.0018,0.92,0.93,0.19,276220.0,29950555.0
+Canada,Females,Total,1+,2019–2020,0.88,0.0024,0.88,0.89,0.27,133250.0,15059475.0
+Canada,Males,Total,1+,2019–2020,0.96,0.0025,0.96,0.97,0.26,142970.0,14891075.0
+Canada,Both sexes,Total,1+,2020–2021,0.95,0.0018,0.95,0.95,0.19,285470.0,30054065.0
+Canada,Females,Total,1+,2020–2021,0.91,0.0025,0.91,0.91,0.27,137560.0,15114090.0
+Canada,Males,Total,1+,2020–2021,0.99,0.0026,0.98,1.0,0.26,147910.0,14939980.0
+Canada,Both sexes,Total,1+,2021–2022,0.96,0.0018,0.96,0.97,0.18,295170.0,30629440.0
+Canada,Females,Total,1+,2021–2022,0.92,0.0024,0.92,0.93,0.27,142240.0,15395675.0
+Canada,Males,Total,1+,2021–2022,1.0,0.0026,1.0,1.01,0.26,152930.0,15233760.0
+Canada,Both sexes,Total,1+,2022–2023,0.97,0.0018,0.96,0.97,0.18,304200.0,31472850.0
+Canada,Females,Total,1+,2022–2023,0.93,0.0024,0.92,0.93,0.26,146625.0,15816210.0
+Canada,Males,Total,1+,2022–2023,1.01,0.0025,1.0,1.01,0.25,157575.0,15656645.0
+Canada,Both sexes,Total,1+,2023–2024,0.97,0.0017,0.97,0.97,0.18,314460.0,32378310.0
+Canada,Females,Total,1+,2023–2024,0.93,0.0024,0.93,0.94,0.26,151625.0,16265545.0
+Canada,Males,Total,1+,2023–2024,1.01,0.0025,1.01,1.02,0.25,162840.0,16112765.0
+Newfoundland and Labrador,Both sexes,Total,1+,2005–2006,,,,,,,
+Newfoundland and Labrador,Females,Total,1+,2005–2006,,,,,,,
+Newfoundland and Labrador,Males,Total,1+,2005–2006,,,,,,,
+Newfoundland and Labrador,Both sexes,Total,1+,2006–2007,,,,,,,
+Newfoundland and Labrador,Females,Total,1+,2006–2007,,,,,,,
+Newfoundland and Labrador,Males,Total,1+,2006–2007,,,,,,,
+Newfoundland and Labrador,Both sexes,Total,1+,2007–2008,,,,,,,
+Newfoundland and Labrador,Females,Total,1+,2007–2008,,,,,,,
+Newfoundland and Labrador,Males,Total,1+,2007–2008,,,,,,,
+Newfoundland and Labrador,Both sexes,Total,1+,2008–2009,0.83,0.0125,0.81,0.86,1.5,4445.0,532345.0
+Newfoundland and Labrador,Females,Total,1+,2008–2009,0.79,0.0171,0.76,0.83,2.16,2135.0,269545.0
+Newfoundland and Labrador,Males,Total,1+,2008–2009,0.88,0.0183,0.84,0.92,2.08,2310.0,262805.0
+Newfoundland and Labrador,Both sexes,Total,1+,2009–2010,0.86,0.0127,0.84,0.89,1.47,4640.0,536745.0
+Newfoundland and Labrador,Females,Total,1+,2009–2010,0.82,0.0174,0.79,0.86,2.12,2235.0,271375.0
+Newfoundland and Labrador,Males,Total,1+,2009–2010,0.91,0.0185,0.87,0.94,2.04,2410.0,265375.0
+Newfoundland and Labrador,Both sexes,Total,1+,2010–2011,0.89,0.0128,0.86,0.91,1.44,4805.0,540550.0
+Newfoundland and Labrador,Females,Total,1+,2010–2011,0.85,0.0177,0.82,0.89,2.07,2325.0,273095.0
+Newfoundland and Labrador,Males,Total,1+,2010–2011,0.93,0.0186,0.89,0.96,2.01,2475.0,267455.0
+Newfoundland and Labrador,Both sexes,Total,1+,2011–2012,0.92,0.013,0.89,0.94,1.42,4985.0,543585.0
+Newfoundland and Labrador,Females,Total,1+,2011–2012,0.88,0.0179,0.85,0.92,2.03,2425.0,274615.0
+Newfoundland and Labrador,Males,Total,1+,2011–2012,0.95,0.0188,0.92,0.99,1.98,2560.0,268965.0
+Newfoundland and Labrador,Both sexes,Total,1+,2012–2013,0.94,0.0131,0.92,0.97,1.4,5135.0,545335.0
+Newfoundland and Labrador,Females,Total,1+,2012–2013,0.9,0.0181,0.87,0.94,2.01,2485.0,275560.0
+Newfoundland and Labrador,Males,Total,1+,2012–2013,0.98,0.0191,0.95,1.02,1.94,2650.0,269775.0
+Newfoundland and Labrador,Both sexes,Total,1+,2013–2014,0.96,0.0133,0.94,0.99,1.38,5255.0,545750.0
+Newfoundland and Labrador,Females,Total,1+,2013–2014,0.93,0.0184,0.9,0.97,1.97,2570.0,275615.0
+Newfoundland and Labrador,Males,Total,1+,2013–2014,0.99,0.0192,0.95,1.03,1.93,2680.0,270125.0
+Newfoundland and Labrador,Both sexes,Total,1+,2014–2015,0.98,0.0134,0.95,1.01,1.37,5335.0,543800.0
+Newfoundland and Labrador,Females,Total,1+,2014–2015,0.95,0.0186,0.91,0.99,1.96,2610.0,274670.0
+Newfoundland and Labrador,Males,Total,1+,2014–2015,1.01,0.0194,0.97,1.05,1.92,2725.0,269130.0
+Newfoundland and Labrador,Both sexes,Total,1+,2015–2016,1.01,0.0137,0.99,1.04,1.35,5485.0,540980.0
+Newfoundland and Labrador,Females,Total,1+,2015–2016,0.98,0.0189,0.94,1.01,1.93,2675.0,273635.0
+Newfoundland and Labrador,Males,Total,1+,2015–2016,1.05,0.0198,1.01,1.09,1.89,2810.0,267350.0
+Newfoundland and Labrador,Both sexes,Total,1+,2016–2017,1.04,0.0138,1.01,1.06,1.33,5630.0,543530.0
+Newfoundland and Labrador,Females,Total,1+,2016–2017,1.0,0.0191,0.96,1.04,1.91,2750.0,274820.0
+Newfoundland and Labrador,Males,Total,1+,2016–2017,1.07,0.02,1.03,1.11,1.87,2875.0,268700.0
+Newfoundland and Labrador,Both sexes,Total,1+,2017–2018,1.06,0.014,1.04,1.09,1.32,5755.0,540440.0
+Newfoundland and Labrador,Females,Total,1+,2017–2018,1.03,0.0194,1.0,1.07,1.88,2830.0,273555.0
+Newfoundland and Labrador,Males,Total,1+,2017–2018,1.1,0.0203,1.06,1.14,1.85,2925.0,266885.0
+Newfoundland and Labrador,Both sexes,Total,1+,2018–2019,1.1,0.0143,1.07,1.12,1.3,5900.0,538805.0
+Newfoundland and Labrador,Females,Total,1+,2018–2019,1.06,0.0197,1.02,1.1,1.86,2900.0,272745.0
+Newfoundland and Labrador,Males,Total,1+,2018–2019,1.13,0.0206,1.09,1.17,1.83,3000.0,266055.0
+Newfoundland and Labrador,Both sexes,Total,1+,2019–2020,1.13,0.0145,1.1,1.16,1.28,6080.0,538705.0
+Newfoundland and Labrador,Females,Total,1+,2019–2020,1.09,0.02,1.05,1.13,1.83,2980.0,272650.0
+Newfoundland and Labrador,Males,Total,1+,2019–2020,1.16,0.0209,1.12,1.2,1.8,3095.0,266055.0
+Newfoundland and Labrador,Both sexes,Total,1+,2020–2021,1.16,0.0147,1.13,1.19,1.27,6215.0,536975.0
+Newfoundland and Labrador,Females,Total,1+,2020–2021,1.12,0.0203,1.08,1.16,1.81,3050.0,271840.0
+Newfoundland and Labrador,Males,Total,1+,2020–2021,1.19,0.0212,1.15,1.24,1.78,3165.0,265130.0
+Newfoundland and Labrador,Both sexes,Total,1+,2021–2022,1.18,0.0147,1.15,1.2,1.25,6355.0,540585.0
+Newfoundland and Labrador,Females,Total,1+,2021–2022,1.14,0.0205,1.1,1.18,1.79,3125.0,273215.0
+Newfoundland and Labrador,Males,Total,1+,2021–2022,1.21,0.0212,1.16,1.25,1.76,3225.0,267360.0
+Newfoundland and Labrador,Both sexes,Total,1+,2022–2023,1.18,0.0147,1.15,1.21,1.25,6450.0,546805.0
+Newfoundland and Labrador,Females,Total,1+,2022–2023,1.15,0.0204,1.11,1.19,1.78,3170.0,276425.0
+Newfoundland and Labrador,Males,Total,1+,2022–2023,1.21,0.0212,1.17,1.25,1.75,3280.0,270385.0
+Newfoundland and Labrador,Both sexes,Total,1+,2023–2024,1.19,0.0147,1.16,1.22,1.23,6570.0,550540.0
+Newfoundland and Labrador,Females,Total,1+,2023–2024,1.16,0.0204,1.12,1.2,1.76,3225.0,278695.0
+Newfoundland and Labrador,Males,Total,1+,2023–2024,1.23,0.0213,1.19,1.27,1.73,3340.0,271845.0
+Prince Edward Island,Both sexes,Total,1+,2005–2006,0.59,0.0203,0.55,0.63,3.43,850.0,143340.0
+Prince Edward Island,Females,Total,1+,2005–2006,0.57,0.0279,0.51,0.62,4.91,415.0,73065.0
+Prince Edward Island,Males,Total,1+,2005–2006,0.62,0.0297,0.56,0.68,4.79,435.0,70275.0
+Prince Edward Island,Both sexes,Total,1+,2006–2007,0.61,0.0206,0.57,0.65,3.37,880.0,143770.0
+Prince Edward Island,Females,Total,1+,2006–2007,0.59,0.0285,0.54,0.65,4.79,435.0,73220.0
+Prince Edward Island,Males,Total,1+,2006–2007,0.62,0.0297,0.57,0.68,4.77,440.0,70550.0
+Prince Edward Island,Both sexes,Total,1+,2007–2008,0.63,0.0209,0.59,0.68,3.3,920.0,145135.0
+Prince Edward Island,Females,Total,1+,2007–2008,0.62,0.029,0.57,0.68,4.66,460.0,73920.0
+Prince Edward Island,Males,Total,1+,2007–2008,0.65,0.0303,0.59,0.71,4.64,465.0,71220.0
+Prince Edward Island,Both sexes,Total,1+,2008–2009,0.64,0.0208,0.6,0.68,3.26,940.0,147525.0
+Prince Edward Island,Females,Total,1+,2008–2009,0.62,0.0287,0.56,0.68,4.64,465.0,75150.0
+Prince Edward Island,Males,Total,1+,2008–2009,0.66,0.0301,0.6,0.72,4.59,475.0,72375.0
+Prince Edward Island,Both sexes,Total,1+,2009–2010,0.65,0.0209,0.61,0.69,3.22,965.0,148910.0
+Prince Edward Island,Females,Total,1+,2009–2010,0.63,0.0289,0.58,0.69,4.56,480.0,75820.0
+Prince Edward Island,Males,Total,1+,2009–2010,0.66,0.03,0.6,0.72,4.56,480.0,73090.0
+Prince Edward Island,Both sexes,Total,1+,2010–2011,0.66,0.021,0.62,0.7,3.17,995.0,150465.0
+Prince Edward Island,Females,Total,1+,2010–2011,0.65,0.0291,0.6,0.71,4.47,500.0,76730.0
+Prince Edward Island,Males,Total,1+,2010–2011,0.67,0.0302,0.61,0.73,4.49,495.0,73730.0
+Prince Edward Island,Both sexes,Total,1+,2011–2012,0.69,0.0213,0.64,0.73,3.1,1040.0,151705.0
+Prince Edward Island,Females,Total,1+,2011–2012,0.67,0.0293,0.61,0.72,4.41,515.0,77345.0
+Prince Edward Island,Males,Total,1+,2011–2012,0.71,0.031,0.65,0.77,4.34,530.0,74370.0
+Prince Edward Island,Both sexes,Total,1+,2012–2013,0.7,0.0214,0.66,0.74,3.06,1070.0,152875.0
+Prince Edward Island,Females,Total,1+,2012–2013,0.68,0.0295,0.62,0.74,4.34,530.0,77940.0
+Prince Edward Island,Males,Total,1+,2012–2013,0.73,0.0312,0.67,0.79,4.28,545.0,74940.0
+Prince Edward Island,Both sexes,Total,1+,2013–2014,0.7,0.0214,0.66,0.74,3.05,1075.0,153380.0
+Prince Edward Island,Females,Total,1+,2013–2014,0.69,0.0297,0.63,0.75,4.3,540.0,78125.0
+Prince Edward Island,Males,Total,1+,2013–2014,0.72,0.0309,0.66,0.78,4.3,540.0,75255.0
+Prince Edward Island,Both sexes,Total,1+,2014–2015,0.7,0.0213,0.66,0.74,3.06,1070.0,153610.0
+Prince Edward Island,Females,Total,1+,2014–2015,0.67,0.0293,0.61,0.73,4.36,525.0,78280.0
+Prince Edward Island,Males,Total,1+,2014–2015,0.72,0.0308,0.66,0.78,4.3,540.0,75330.0
+Prince Edward Island,Both sexes,Total,1+,2015–2016,0.7,0.0214,0.66,0.75,3.04,1080.0,153645.0
+Prince Edward Island,Females,Total,1+,2015–2016,0.68,0.0294,0.62,0.74,4.34,530.0,78300.0
+Prince Edward Island,Males,Total,1+,2015–2016,0.73,0.0311,0.67,0.79,4.26,550.0,75345.0
+Prince Edward Island,Both sexes,Total,1+,2016–2017,0.72,0.0215,0.68,0.76,2.99,1115.0,155160.0
+Prince Edward Island,Females,Total,1+,2016–2017,0.69,0.0296,0.63,0.75,4.28,545.0,78920.0
+Prince Edward Island,Males,Total,1+,2016–2017,0.74,0.0312,0.68,0.8,4.21,565.0,76230.0
+Prince Edward Island,Both sexes,Total,1+,2017–2018,0.74,0.0216,0.7,0.78,2.93,1165.0,157725.0
+Prince Edward Island,Females,Total,1+,2017–2018,0.72,0.03,0.67,0.78,4.15,580.0,80150.0
+Prince Edward Island,Males,Total,1+,2017–2018,0.75,0.0312,0.69,0.82,4.13,585.0,77570.0
+Prince Edward Island,Both sexes,Total,1+,2018–2019,0.77,0.0219,0.73,0.81,2.85,1235.0,160800.0
+Prince Edward Island,Females,Total,1+,2018–2019,0.76,0.0305,0.7,0.82,4.02,620.0,81530.0
+Prince Edward Island,Males,Total,1+,2018–2019,0.78,0.0314,0.72,0.84,4.02,620.0,79275.0
+Prince Edward Island,Both sexes,Total,1+,2019–2020,0.78,0.0217,0.74,0.82,2.79,1285.0,165240.0
+Prince Edward Island,Females,Total,1+,2019–2020,0.78,0.0305,0.72,0.84,3.92,650.0,83670.0
+Prince Edward Island,Males,Total,1+,2019–2020,0.77,0.0308,0.71,0.83,3.98,630.0,81560.0
+Prince Edward Island,Both sexes,Total,1+,2020–2021,0.81,0.022,0.76,0.85,2.72,1350.0,167210.0
+Prince Edward Island,Females,Total,1+,2020–2021,0.82,0.0312,0.76,0.88,3.79,695.0,84600.0
+Prince Edward Island,Males,Total,1+,2020–2021,0.8,0.0312,0.74,0.87,3.88,665.0,82615.0
+Prince Edward Island,Both sexes,Total,1+,2021–2022,0.83,0.022,0.78,0.87,2.66,1410.0,170800.0
+Prince Edward Island,Females,Total,1+,2021–2022,0.83,0.0309,0.77,0.89,3.74,715.0,86555.0
+Prince Edward Island,Males,Total,1+,2021–2022,0.83,0.0314,0.77,0.89,3.78,700.0,84255.0
+Prince Edward Island,Both sexes,Total,1+,2022–2023,0.82,0.0216,0.78,0.87,2.63,1445.0,175715.0
+Prince Edward Island,Females,Total,1+,2022–2023,0.83,0.0304,0.77,0.89,3.69,735.0,89080.0
+Prince Edward Island,Males,Total,1+,2022–2023,0.82,0.0308,0.76,0.88,3.75,710.0,86635.0
+Prince Edward Island,Both sexes,Total,1+,2023–2024,0.84,0.0217,0.8,0.88,2.59,1495.0,178460.0
+Prince Edward Island,Females,Total,1+,2023–2024,0.83,0.0303,0.78,0.89,3.64,755.0,90565.0
+Prince Edward Island,Males,Total,1+,2023–2024,0.84,0.031,0.78,0.9,3.68,740.0,87890.0
+Nova Scotia,Both sexes,Total,1+,2005–2006,0.53,0.0074,0.51,0.54,1.4,5135.0,970560.0
+Nova Scotia,Females,Total,1+,2005–2006,0.5,0.01,0.48,0.52,2.0,2495.0,497975.0
+Nova Scotia,Males,Total,1+,2005–2006,0.56,0.0109,0.54,0.58,1.94,2645.0,472595.0
+Nova Scotia,Both sexes,Total,1+,2006–2007,0.55,0.0075,0.53,0.56,1.37,5340.0,973630.0
+Nova Scotia,Females,Total,1+,2006–2007,0.52,0.0102,0.5,0.54,1.97,2580.0,499670.0
+Nova Scotia,Males,Total,1+,2006–2007,0.58,0.0111,0.56,0.6,1.9,2760.0,473960.0
+Nova Scotia,Both sexes,Total,1+,2007–2008,0.57,0.0076,0.55,0.58,1.34,5535.0,974840.0
+Nova Scotia,Females,Total,1+,2007–2008,0.54,0.0103,0.52,0.56,1.93,2680.0,500410.0
+Nova Scotia,Males,Total,1+,2007–2008,0.6,0.0113,0.58,0.62,1.87,2855.0,474430.0
+Nova Scotia,Both sexes,Total,1+,2008–2009,0.59,0.0077,0.57,0.6,1.32,5750.0,979875.0
+Nova Scotia,Females,Total,1+,2008–2009,0.55,0.0105,0.53,0.57,1.89,2785.0,502700.0
+Nova Scotia,Males,Total,1+,2008–2009,0.62,0.0114,0.6,0.64,1.84,2965.0,477175.0
+Nova Scotia,Both sexes,Total,1+,2009–2010,0.61,0.0079,0.59,0.62,1.29,5995.0,984600.0
+Nova Scotia,Females,Total,1+,2009–2010,0.57,0.0106,0.55,0.59,1.86,2880.0,504665.0
+Nova Scotia,Males,Total,1+,2009–2010,0.65,0.0116,0.63,0.67,1.79,3115.0,479935.0
+Nova Scotia,Both sexes,Total,1+,2010–2011,0.62,0.0079,0.61,0.64,1.27,6175.0,991550.0
+Nova Scotia,Females,Total,1+,2010–2011,0.59,0.0108,0.57,0.61,1.83,2995.0,507745.0
+Nova Scotia,Males,Total,1+,2010–2011,0.66,0.0116,0.63,0.68,1.77,3175.0,483805.0
+Nova Scotia,Both sexes,Total,1+,2011–2012,0.64,0.008,0.62,0.66,1.25,6380.0,996860.0
+Nova Scotia,Females,Total,1+,2011–2012,0.61,0.011,0.59,0.63,1.79,3125.0,510290.0
+Nova Scotia,Males,Total,1+,2011–2012,0.67,0.0117,0.65,0.69,1.75,3255.0,486570.0
+Nova Scotia,Both sexes,Total,1+,2012–2013,0.66,0.0081,0.64,0.67,1.23,6560.0,1000405.0
+Nova Scotia,Females,Total,1+,2012–2013,0.62,0.011,0.6,0.64,1.77,3190.0,511975.0
+Nova Scotia,Males,Total,1+,2012–2013,0.69,0.0119,0.67,0.71,1.72,3365.0,488425.0
+Nova Scotia,Both sexes,Total,1+,2013–2014,0.67,0.0082,0.65,0.69,1.22,6730.0,1004175.0
+Nova Scotia,Females,Total,1+,2013–2014,0.64,0.0111,0.61,0.66,1.75,3265.0,513405.0
+Nova Scotia,Males,Total,1+,2013–2014,0.71,0.012,0.68,0.73,1.7,3460.0,490765.0
+Nova Scotia,Both sexes,Total,1+,2014–2015,0.68,0.0082,0.67,0.7,1.21,6885.0,1006380.0
+Nova Scotia,Females,Total,1+,2014–2015,0.65,0.0112,0.62,0.67,1.73,3325.0,514445.0
+Nova Scotia,Males,Total,1+,2014–2015,0.72,0.0121,0.7,0.75,1.68,3560.0,491935.0
+Nova Scotia,Both sexes,Total,1+,2015–2016,0.7,0.0083,0.68,0.71,1.19,7055.0,1010770.0
+Nova Scotia,Females,Total,1+,2015–2016,0.66,0.0113,0.64,0.68,1.71,3415.0,516175.0
+Nova Scotia,Males,Total,1+,2015–2016,0.74,0.0122,0.71,0.76,1.66,3640.0,494590.0
+Nova Scotia,Both sexes,Total,1+,2016–2017,0.71,0.0083,0.69,0.72,1.18,7205.0,1018850.0
+Nova Scotia,Females,Total,1+,2016–2017,0.67,0.0114,0.65,0.69,1.69,3490.0,519765.0
+Nova Scotia,Males,Total,1+,2016–2017,0.74,0.0122,0.72,0.77,1.64,3715.0,499085.0
+Nova Scotia,Both sexes,Total,1+,2017–2018,0.71,0.0083,0.7,0.73,1.17,7330.0,1028345.0
+Nova Scotia,Females,Total,1+,2017–2018,0.68,0.0114,0.66,0.7,1.67,3565.0,524365.0
+Nova Scotia,Males,Total,1+,2017–2018,0.75,0.0122,0.72,0.77,1.63,3765.0,503980.0
+Nova Scotia,Both sexes,Total,1+,2018–2019,0.72,0.0083,0.7,0.73,1.16,7475.0,1040560.0
+Nova Scotia,Females,Total,1+,2018–2019,0.68,0.0114,0.66,0.71,1.66,3630.0,530215.0
+Nova Scotia,Males,Total,1+,2018–2019,0.75,0.0122,0.73,0.78,1.61,3845.0,510340.0
+Nova Scotia,Both sexes,Total,1+,2019–2020,0.73,0.0083,0.71,0.75,1.14,7705.0,1056395.0
+Nova Scotia,Females,Total,1+,2019–2020,0.69,0.0113,0.67,0.71,1.64,3720.0,537640.0
+Nova Scotia,Males,Total,1+,2019–2020,0.77,0.0122,0.74,0.79,1.58,3985.0,518755.0
+Nova Scotia,Both sexes,Total,1+,2020–2021,0.74,0.0083,0.73,0.76,1.12,8000.0,1074175.0
+Nova Scotia,Females,Total,1+,2020–2021,0.71,0.0114,0.68,0.73,1.61,3850.0,546060.0
+Nova Scotia,Males,Total,1+,2020–2021,0.79,0.0122,0.76,0.81,1.55,4150.0,528115.0
+Nova Scotia,Both sexes,Total,1+,2021–2022,0.75,0.0083,0.74,0.77,1.1,8250.0,1095585.0
+Nova Scotia,Females,Total,1+,2021–2022,0.71,0.0113,0.69,0.74,1.59,3970.0,556910.0
+Nova Scotia,Males,Total,1+,2021–2022,0.79,0.0121,0.77,0.82,1.53,4280.0,538675.0
+Nova Scotia,Both sexes,Total,1+,2022–2023,0.75,0.0082,0.73,0.77,1.09,8435.0,1125085.0
+Nova Scotia,Females,Total,1+,2022–2023,0.71,0.0111,0.69,0.73,1.57,4055.0,571465.0
+Nova Scotia,Males,Total,1+,2022–2023,0.79,0.012,0.77,0.82,1.51,4385.0,553630.0
+Nova Scotia,Both sexes,Total,1+,2023–2024,0.75,0.0081,0.73,0.76,1.08,8595.0,1149030.0
+Nova Scotia,Females,Total,1+,2023–2024,0.71,0.0111,0.69,0.74,1.55,4165.0,583115.0
+Nova Scotia,Males,Total,1+,2023–2024,0.78,0.0118,0.76,0.81,1.5,4430.0,565920.0
+New Brunswick,Both sexes,Total,1+,2005–2006,,,,,,,
+New Brunswick,Females,Total,1+,2005–2006,,,,,,,
+New Brunswick,Males,Total,1+,2005–2006,,,,,,,
+New Brunswick,Both sexes,Total,1+,2006–2007,,,,,,,
+New Brunswick,Females,Total,1+,2006–2007,,,,,,,
+New Brunswick,Males,Total,1+,2006–2007,,,,,,,
+New Brunswick,Both sexes,Total,1+,2007–2008,,,,,,,
+New Brunswick,Females,Total,1+,2007–2008,,,,,,,
+New Brunswick,Males,Total,1+,2007–2008,,,,,,,
+New Brunswick,Both sexes,Total,1+,2008–2009,,,,,,,
+New Brunswick,Females,Total,1+,2008–2009,,,,,,,
+New Brunswick,Males,Total,1+,2008–2009,,,,,,,
+New Brunswick,Both sexes,Total,1+,2009–2010,,,,,,,
+New Brunswick,Females,Total,1+,2009–2010,,,,,,,
+New Brunswick,Males,Total,1+,2009–2010,,,,,,,
+New Brunswick,Both sexes,Total,1+,2010–2011,,,,,,,
+New Brunswick,Females,Total,1+,2010–2011,,,,,,,
+New Brunswick,Males,Total,1+,2010–2011,,,,,,,
+New Brunswick,Both sexes,Total,1+,2011–2012,,,,,,,
+New Brunswick,Females,Total,1+,2011–2012,,,,,,,
+New Brunswick,Males,Total,1+,2011–2012,,,,,,,
+New Brunswick,Both sexes,Total,1+,2012–2013,,,,,,,
+New Brunswick,Females,Total,1+,2012–2013,,,,,,,
+New Brunswick,Males,Total,1+,2012–2013,,,,,,,
+New Brunswick,Both sexes,Total,1+,2013–2014,,,,,,,
+New Brunswick,Females,Total,1+,2013–2014,,,,,,,
+New Brunswick,Males,Total,1+,2013–2014,,,,,,,
+New Brunswick,Both sexes,Total,1+,2014–2015,,,,,,,
+New Brunswick,Females,Total,1+,2014–2015,,,,,,,
+New Brunswick,Males,Total,1+,2014–2015,,,,,,,
+New Brunswick,Both sexes,Total,1+,2015–2016,,,,,,,
+New Brunswick,Females,Total,1+,2015–2016,,,,,,,
+New Brunswick,Males,Total,1+,2015–2016,,,,,,,
+New Brunswick,Both sexes,Total,1+,2016–2017,,,,,,,
+New Brunswick,Females,Total,1+,2016–2017,,,,,,,
+New Brunswick,Males,Total,1+,2016–2017,,,,,,,
+New Brunswick,Both sexes,Total,1+,2017–2018,,,,,,,
+New Brunswick,Females,Total,1+,2017–2018,,,,,,,
+New Brunswick,Males,Total,1+,2017–2018,,,,,,,
+New Brunswick,Both sexes,Total,1+,2018–2019,,,,,,,
+New Brunswick,Females,Total,1+,2018–2019,,,,,,,
+New Brunswick,Males,Total,1+,2018–2019,,,,,,,
+New Brunswick,Both sexes,Total,1+,2019–2020,,,,,,,
+New Brunswick,Females,Total,1+,2019–2020,,,,,,,
+New Brunswick,Males,Total,1+,2019–2020,,,,,,,
+New Brunswick,Both sexes,Total,1+,2020–2021,,,,,,,
+New Brunswick,Females,Total,1+,2020–2021,,,,,,,
+New Brunswick,Males,Total,1+,2020–2021,,,,,,,
+New Brunswick,Both sexes,Total,1+,2021–2022,,,,,,,
+New Brunswick,Females,Total,1+,2021–2022,,,,,,,
+New Brunswick,Males,Total,1+,2021–2022,,,,,,,
+New Brunswick,Both sexes,Total,1+,2022–2023,,,,,,,
+New Brunswick,Females,Total,1+,2022–2023,,,,,,,
+New Brunswick,Males,Total,1+,2022–2023,,,,,,,
+New Brunswick,Both sexes,Total,1+,2023–2024,,,,,,,
+New Brunswick,Females,Total,1+,2023–2024,,,,,,,
+New Brunswick,Males,Total,1+,2023–2024,,,,,,,
+Quebec,Both sexes,Total,1+,2005–2006,,,,,,,
+Quebec,Females,Total,1+,2005–2006,,,,,,,
+Quebec,Males,Total,1+,2005–2006,,,,,,,
+Quebec,Both sexes,Total,1+,2006–2007,,,,,,,
+Quebec,Females,Total,1+,2006–2007,,,,,,,
+Quebec,Males,Total,1+,2006–2007,,,,,,,
+Quebec,Both sexes,Total,1+,2007–2008,,,,,,,
+Quebec,Females,Total,1+,2007–2008,,,,,,,
+Quebec,Males,Total,1+,2007–2008,,,,,,,
+Quebec,Both sexes,Total,1+,2008–2009,,,,,,,
+Quebec,Females,Total,1+,2008–2009,,,,,,,
+Quebec,Males,Total,1+,2008–2009,,,,,,,
+Quebec,Both sexes,Total,1+,2009–2010,,,,,,,
+Quebec,Females,Total,1+,2009–2010,,,,,,,
+Quebec,Males,Total,1+,2009–2010,,,,,,,
+Quebec,Both sexes,Total,1+,2010–2011,,,,,,,
+Quebec,Females,Total,1+,2010–2011,,,,,,,
+Quebec,Males,Total,1+,2010–2011,,,,,,,
+Quebec,Both sexes,Total,1+,2011–2012,,,,,,,
+Quebec,Females,Total,1+,2011–2012,,,,,,,
+Quebec,Males,Total,1+,2011–2012,,,,,,,
+Quebec,Both sexes,Total,1+,2012–2013,,,,,,,
+Quebec,Females,Total,1+,2012–2013,,,,,,,
+Quebec,Males,Total,1+,2012–2013,,,,,,,
+Quebec,Both sexes,Total,1+,2013–2014,,,,,,,
+Quebec,Females,Total,1+,2013–2014,,,,,,,
+Quebec,Males,Total,1+,2013–2014,,,,,,,
+Quebec,Both sexes,Total,1+,2014–2015,,,,,,,
+Quebec,Females,Total,1+,2014–2015,,,,,,,
+Quebec,Males,Total,1+,2014–2015,,,,,,,
+Quebec,Both sexes,Total,1+,2015–2016,,,,,,,
+Quebec,Females,Total,1+,2015–2016,,,,,,,
+Quebec,Males,Total,1+,2015–2016,,,,,,,
+Quebec,Both sexes,Total,1+,2016–2017,,,,,,,
+Quebec,Females,Total,1+,2016–2017,,,,,,,
+Quebec,Males,Total,1+,2016–2017,,,,,,,
+Quebec,Both sexes,Total,1+,2017–2018,,,,,,,
+Quebec,Females,Total,1+,2017–2018,,,,,,,
+Quebec,Males,Total,1+,2017–2018,,,,,,,
+Quebec,Both sexes,Total,1+,2018–2019,,,,,,,
+Quebec,Females,Total,1+,2018–2019,,,,,,,
+Quebec,Males,Total,1+,2018–2019,,,,,,,
+Quebec,Both sexes,Total,1+,2019–2020,,,,,,,
+Quebec,Females,Total,1+,2019–2020,,,,,,,
+Quebec,Males,Total,1+,2019–2020,,,,,,,
+Quebec,Both sexes,Total,1+,2020–2021,,,,,,,
+Quebec,Females,Total,1+,2020–2021,,,,,,,
+Quebec,Males,Total,1+,2020–2021,,,,,,,
+Quebec,Both sexes,Total,1+,2021–2022,,,,,,,
+Quebec,Females,Total,1+,2021–2022,,,,,,,
+Quebec,Males,Total,1+,2021–2022,,,,,,,
+Quebec,Both sexes,Total,1+,2022–2023,,,,,,,
+Quebec,Females,Total,1+,2022–2023,,,,,,,
+Quebec,Males,Total,1+,2022–2023,,,,,,,
+Quebec,Both sexes,Total,1+,2023–2024,,,,,,,
+Quebec,Females,Total,1+,2023–2024,,,,,,,
+Quebec,Males,Total,1+,2023–2024,,,,,,,
+Ontario,Both sexes,Total,1+,2005–2006,0.64,0.0022,0.63,0.64,0.34,84665.0,13248800.0
+Ontario,Females,Total,1+,2005–2006,0.62,0.003,0.62,0.63,0.49,41645.0,6693740.0
+Ontario,Males,Total,1+,2005–2006,0.66,0.0032,0.65,0.66,0.48,43020.0,6555060.0
+Ontario,Both sexes,Total,1+,2006–2007,0.67,0.0023,0.67,0.68,0.33,89395.0,13248160.0
+Ontario,Females,Total,1+,2006–2007,0.66,0.0031,0.65,0.66,0.48,43925.0,6698360.0
+Ontario,Males,Total,1+,2006–2007,0.69,0.0033,0.69,0.7,0.47,45475.0,6549810.0
+Ontario,Both sexes,Total,1+,2007–2008,0.71,0.0023,0.7,0.71,0.33,93900.0,13271770.0
+Ontario,Females,Total,1+,2007–2008,0.69,0.0032,0.68,0.69,0.47,46150.0,6718415.0
+Ontario,Males,Total,1+,2007–2008,0.73,0.0033,0.72,0.74,0.46,47755.0,6553355.0
+Ontario,Both sexes,Total,1+,2008–2009,0.74,0.0023,0.73,0.74,0.32,98535.0,13366410.0
+Ontario,Females,Total,1+,2008–2009,0.72,0.0033,0.71,0.72,0.45,48400.0,6768905.0
+Ontario,Males,Total,1+,2008–2009,0.76,0.0034,0.75,0.77,0.45,50135.0,6597510.0
+Ontario,Both sexes,Total,1+,2009–2010,0.76,0.0024,0.76,0.77,0.31,103000.0,13533120.0
+Ontario,Females,Total,1+,2009–2010,0.74,0.0033,0.73,0.74,0.44,50505.0,6854750.0
+Ontario,Males,Total,1+,2009–2010,0.79,0.0034,0.78,0.79,0.44,52490.0,6678365.0
+Ontario,Both sexes,Total,1+,2010–2011,0.78,0.0024,0.78,0.79,0.31,107470.0,13705725.0
+Ontario,Females,Total,1+,2010–2011,0.76,0.0033,0.75,0.76,0.44,52650.0,6941830.0
+Ontario,Males,Total,1+,2010–2011,0.81,0.0035,0.8,0.82,0.43,54820.0,6763900.0
+Ontario,Both sexes,Total,1+,2011–2012,0.81,0.0024,0.8,0.81,0.3,112215.0,13885920.0
+Ontario,Females,Total,1+,2011–2012,0.78,0.0033,0.77,0.79,0.43,54930.0,7031740.0
+Ontario,Males,Total,1+,2011–2012,0.84,0.0035,0.83,0.84,0.42,57285.0,6854180.0
+Ontario,Both sexes,Total,1+,2012–2013,0.83,0.0024,0.83,0.83,0.29,116725.0,14063830.0
+Ontario,Females,Total,1+,2012–2013,0.8,0.0034,0.8,0.81,0.42,57090.0,7120980.0
+Ontario,Males,Total,1+,2012–2013,0.86,0.0035,0.85,0.87,0.41,59640.0,6942850.0
+Ontario,Both sexes,Total,1+,2013–2014,0.85,0.0024,0.85,0.86,0.29,121355.0,14223275.0
+Ontario,Females,Total,1+,2013–2014,0.82,0.0034,0.82,0.83,0.41,59270.0,7201185.0
+Ontario,Males,Total,1+,2013–2014,0.88,0.0035,0.88,0.89,0.4,62080.0,7022085.0
+Ontario,Both sexes,Total,1+,2014–2015,0.88,0.0025,0.87,0.88,0.28,125820.0,14324925.0
+Ontario,Females,Total,1+,2014–2015,0.84,0.0034,0.84,0.85,0.4,61270.0,7252440.0
+Ontario,Males,Total,1+,2014–2015,0.91,0.0036,0.91,0.92,0.39,64545.0,7072475.0
+Ontario,Both sexes,Total,1+,2015–2016,0.9,0.0025,0.9,0.91,0.28,130450.0,14473300.0
+Ontario,Females,Total,1+,2015–2016,0.87,0.0034,0.86,0.87,0.4,63490.0,7324000.0
+Ontario,Males,Total,1+,2015–2016,0.94,0.0036,0.93,0.94,0.39,66955.0,7149300.0
+Ontario,Both sexes,Total,1+,2016–2017,0.92,0.0025,0.92,0.93,0.27,135380.0,14669345.0
+Ontario,Females,Total,1+,2016–2017,0.89,0.0035,0.88,0.89,0.39,65810.0,7419185.0
+Ontario,Males,Total,1+,2016–2017,0.96,0.0036,0.95,0.97,0.38,69575.0,7250165.0
+Ontario,Both sexes,Total,1+,2017–2018,0.94,0.0025,0.94,0.95,0.27,140130.0,14858935.0
+Ontario,Females,Total,1+,2017–2018,0.9,0.0035,0.9,0.91,0.38,67955.0,7511700.0
+Ontario,Males,Total,1+,2017–2018,0.98,0.0037,0.98,0.99,0.37,72165.0,7347230.0
+Ontario,Both sexes,Total,1+,2018–2019,0.96,0.0025,0.95,0.96,0.26,144895.0,15101615.0
+Ontario,Females,Total,1+,2018–2019,0.92,0.0035,0.91,0.93,0.38,70185.0,7629365.0
+Ontario,Males,Total,1+,2018–2019,1.0,0.0037,0.99,1.01,0.37,74715.0,7472255.0
+Ontario,Both sexes,Total,1+,2019–2020,0.97,0.0025,0.97,0.98,0.26,149715.0,15407305.0
+Ontario,Females,Total,1+,2019–2020,0.93,0.0035,0.93,0.94,0.37,72475.0,7777140.0
+Ontario,Males,Total,1+,2019–2020,1.01,0.0036,1.01,1.02,0.36,77245.0,7630165.0
+Ontario,Both sexes,Total,1+,2020–2021,1.0,0.0026,1.0,1.01,0.25,153965.0,15358385.0
+Ontario,Females,Total,1+,2020–2021,0.96,0.0035,0.95,0.97,0.37,74475.0,7754450.0
+Ontario,Males,Total,1+,2020–2021,1.05,0.0037,1.04,1.05,0.35,79490.0,7603935.0
+Ontario,Both sexes,Total,1+,2021–2022,1.02,0.0025,1.01,1.02,0.25,158935.0,15635850.0
+Ontario,Females,Total,1+,2021–2022,0.97,0.0035,0.97,0.98,0.36,76810.0,7886805.0
+Ontario,Males,Total,1+,2021–2022,1.06,0.0037,1.05,1.07,0.35,82120.0,7749035.0
+Ontario,Both sexes,Total,1+,2022–2023,1.02,0.0025,1.02,1.03,0.25,163590.0,16011710.0
+Ontario,Females,Total,1+,2022–2023,0.98,0.0035,0.97,0.99,0.36,79095.0,8072340.0
+Ontario,Males,Total,1+,2022–2023,1.06,0.0037,1.06,1.07,0.34,84495.0,7939370.0
+Ontario,Both sexes,Total,1+,2023–2024,1.03,0.0025,1.02,1.03,0.24,168800.0,16398910.0
+Ontario,Females,Total,1+,2023–2024,0.99,0.0035,0.98,0.99,0.35,81575.0,8264425.0
+Ontario,Males,Total,1+,2023–2024,1.07,0.0036,1.07,1.08,0.34,87225.0,8134485.0
+Manitoba,Both sexes,Total,1+,2005–2006,0.48,0.0064,0.47,0.5,1.31,5805.0,1198775.0
+Manitoba,Females,Total,1+,2005–2006,0.48,0.0089,0.46,0.5,1.85,2910.0,605590.0
+Manitoba,Males,Total,1+,2005–2006,0.49,0.0091,0.47,0.51,1.86,2900.0,593185.0
+Manitoba,Both sexes,Total,1+,2006–2007,0.51,0.0065,0.49,0.52,1.28,6100.0,1204335.0
+Manitoba,Females,Total,1+,2006–2007,0.5,0.0091,0.49,0.52,1.81,3065.0,608330.0
+Manitoba,Males,Total,1+,2006–2007,0.51,0.0093,0.49,0.53,1.81,3040.0,596015.0
+Manitoba,Both sexes,Total,1+,2007–2008,0.53,0.0066,0.52,0.54,1.25,6415.0,1213035.0
+Manitoba,Females,Total,1+,2007–2008,0.52,0.0093,0.51,0.54,1.76,3215.0,612725.0
+Manitoba,Males,Total,1+,2007–2008,0.53,0.0094,0.52,0.55,1.77,3205.0,600320.0
+Manitoba,Both sexes,Total,1+,2008–2009,0.55,0.0067,0.54,0.57,1.21,6805.0,1226385.0
+Manitoba,Females,Total,1+,2008–2009,0.55,0.0095,0.54,0.57,1.71,3435.0,619460.0
+Manitoba,Males,Total,1+,2008–2009,0.56,0.0096,0.54,0.57,1.72,3370.0,606925.0
+Manitoba,Both sexes,Total,1+,2009–2010,0.57,0.0068,0.55,0.58,1.19,7045.0,1240460.0
+Manitoba,Females,Total,1+,2009–2010,0.57,0.0095,0.55,0.58,1.68,3540.0,626475.0
+Manitoba,Males,Total,1+,2009–2010,0.57,0.0096,0.55,0.59,1.69,3510.0,613990.0
+Manitoba,Both sexes,Total,1+,2010–2011,0.59,0.0068,0.57,0.6,1.16,7395.0,1259625.0
+Manitoba,Females,Total,1+,2010–2011,0.58,0.0096,0.56,0.6,1.65,3695.0,635905.0
+Manitoba,Males,Total,1+,2010–2011,0.59,0.0098,0.57,0.61,1.64,3700.0,623715.0
+Manitoba,Both sexes,Total,1+,2011–2012,0.6,0.0069,0.59,0.62,1.14,7735.0,1279270.0
+Manitoba,Females,Total,1+,2011–2012,0.6,0.0096,0.58,0.62,1.61,3865.0,644925.0
+Manitoba,Males,Total,1+,2011–2012,0.61,0.0098,0.59,0.63,1.61,3875.0,634350.0
+Manitoba,Both sexes,Total,1+,2012–2013,0.62,0.0069,0.61,0.63,1.11,8080.0,1301245.0
+Manitoba,Females,Total,1+,2012–2013,0.61,0.0097,0.59,0.63,1.58,4015.0,654730.0
+Manitoba,Males,Total,1+,2012–2013,0.63,0.0099,0.61,0.65,1.57,4060.0,646510.0
+Manitoba,Both sexes,Total,1+,2013–2014,0.64,0.007,0.62,0.65,1.09,8425.0,1319790.0
+Manitoba,Females,Total,1+,2013–2014,0.63,0.0098,0.61,0.65,1.55,4185.0,663240.0
+Manitoba,Males,Total,1+,2013–2014,0.65,0.0099,0.63,0.66,1.54,4235.0,656540.0
+Manitoba,Both sexes,Total,1+,2014–2015,0.66,0.007,0.64,0.67,1.07,8800.0,1338200.0
+Manitoba,Females,Total,1+,2014–2015,0.65,0.0098,0.63,0.67,1.52,4345.0,671775.0
+Manitoba,Males,Total,1+,2014–2015,0.67,0.01,0.65,0.69,1.5,4450.0,666420.0
+Manitoba,Both sexes,Total,1+,2015–2016,0.68,0.0071,0.66,0.69,1.04,9180.0,1353715.0
+Manitoba,Females,Total,1+,2015–2016,0.66,0.0099,0.64,0.68,1.49,4505.0,679145.0
+Manitoba,Males,Total,1+,2015–2016,0.69,0.0101,0.67,0.71,1.46,4670.0,674565.0
+Manitoba,Both sexes,Total,1+,2016–2017,0.7,0.0071,0.68,0.71,1.02,9590.0,1373025.0
+Manitoba,Females,Total,1+,2016–2017,0.68,0.01,0.66,0.7,1.46,4705.0,688325.0
+Manitoba,Males,Total,1+,2016–2017,0.71,0.0102,0.69,0.73,1.43,4885.0,684705.0
+Manitoba,Both sexes,Total,1+,2017–2018,0.72,0.0072,0.71,0.73,1.0,10005.0,1390490.0
+Manitoba,Females,Total,1+,2017–2018,0.71,0.0101,0.69,0.73,1.42,4935.0,696895.0
+Manitoba,Males,Total,1+,2017–2018,0.73,0.0103,0.71,0.75,1.4,5075.0,693605.0
+Manitoba,Both sexes,Total,1+,2018–2019,0.74,0.0073,0.73,0.76,0.98,10380.0,1400205.0
+Manitoba,Females,Total,1+,2018–2019,0.72,0.0102,0.71,0.75,1.4,5090.0,702080.0
+Manitoba,Males,Total,1+,2018–2019,0.76,0.0104,0.74,0.78,1.38,5285.0,698120.0
+Manitoba,Both sexes,Total,1+,2019–2020,0.77,0.0074,0.75,0.78,0.97,10730.0,1401755.0
+Manitoba,Females,Total,1+,2019–2020,0.75,0.0103,0.73,0.77,1.38,5250.0,703805.0
+Manitoba,Males,Total,1+,2019–2020,0.78,0.0106,0.76,0.81,1.35,5475.0,697945.0
+Manitoba,Both sexes,Total,1+,2020–2021,0.8,0.0075,0.78,0.81,0.94,11240.0,1409730.0
+Manitoba,Females,Total,1+,2020–2021,0.78,0.0105,0.76,0.8,1.35,5500.0,707865.0
+Manitoba,Males,Total,1+,2020–2021,0.82,0.0108,0.8,0.84,1.32,5735.0,701855.0
+Manitoba,Both sexes,Total,1+,2021–2022,0.82,0.0076,0.8,0.83,0.92,11700.0,1427510.0
+Manitoba,Females,Total,1+,2021–2022,0.8,0.0106,0.78,0.82,1.32,5735.0,716240.0
+Manitoba,Males,Total,1+,2021–2022,0.84,0.0109,0.82,0.86,1.29,5965.0,711270.0
+Manitoba,Both sexes,Total,1+,2022–2023,0.83,0.0075,0.81,0.84,0.91,12170.0,1470445.0
+Manitoba,Females,Total,1+,2022–2023,0.81,0.0105,0.79,0.83,1.3,5950.0,737295.0
+Manitoba,Males,Total,1+,2022–2023,0.85,0.0108,0.83,0.87,1.27,6220.0,733145.0
+Manitoba,Both sexes,Total,1+,2023–2024,0.85,0.0075,0.83,0.86,0.89,12725.0,1501930.0
+Manitoba,Females,Total,1+,2023–2024,0.82,0.0105,0.8,0.84,1.27,6210.0,753495.0
+Manitoba,Males,Total,1+,2023–2024,0.87,0.0108,0.85,0.89,1.24,6515.0,748440.0
+Saskatchewan,Both sexes,Total,1+,2005–2006,0.68,0.0081,0.67,0.7,1.19,7045.0,1034255.0
+Saskatchewan,Females,Total,1+,2005–2006,0.65,0.0111,0.62,0.67,1.73,3355.0,519595.0
+Saskatchewan,Males,Total,1+,2005–2006,0.72,0.0118,0.69,0.74,1.65,3690.0,514665.0
+Saskatchewan,Both sexes,Total,1+,2006–2007,0.7,0.0083,0.68,0.72,1.18,7170.0,1024665.0
+Saskatchewan,Females,Total,1+,2006–2007,0.66,0.0113,0.64,0.68,1.71,3415.0,515675.0
+Saskatchewan,Males,Total,1+,2006–2007,0.74,0.012,0.71,0.76,1.63,3755.0,508995.0
+Saskatchewan,Both sexes,Total,1+,2007–2008,0.71,0.0082,0.69,0.72,1.17,7350.0,1042130.0
+Saskatchewan,Females,Total,1+,2007–2008,0.67,0.0113,0.64,0.69,1.69,3490.0,523335.0
+Saskatchewan,Males,Total,1+,2007–2008,0.74,0.012,0.72,0.77,1.61,3855.0,518795.0
+Saskatchewan,Both sexes,Total,1+,2008–2009,0.72,0.0082,0.7,0.73,1.15,7615.0,1062040.0
+Saskatchewan,Females,Total,1+,2008–2009,0.68,0.0113,0.66,0.7,1.66,3610.0,531865.0
+Saskatchewan,Males,Total,1+,2008–2009,0.75,0.0119,0.73,0.78,1.58,4000.0,530170.0
+Saskatchewan,Both sexes,Total,1+,2009–2010,0.73,0.0083,0.71,0.75,1.13,7790.0,1067715.0
+Saskatchewan,Females,Total,1+,2009–2010,0.69,0.0114,0.67,0.71,1.64,3700.0,534985.0
+Saskatchewan,Males,Total,1+,2009–2010,0.77,0.012,0.74,0.79,1.56,4090.0,532725.0
+Saskatchewan,Both sexes,Total,1+,2010–2011,0.73,0.0082,0.72,0.75,1.12,7990.0,1088200.0
+Saskatchewan,Females,Total,1+,2010–2011,0.7,0.0113,0.68,0.72,1.62,3800.0,544425.0
+Saskatchewan,Males,Total,1+,2010–2011,0.77,0.0119,0.75,0.79,1.55,4185.0,543775.0
+Saskatchewan,Both sexes,Total,1+,2011–2012,0.74,0.0081,0.72,0.75,1.1,8195.0,1111555.0
+Saskatchewan,Females,Total,1+,2011–2012,0.71,0.0113,0.68,0.73,1.6,3915.0,554525.0
+Saskatchewan,Males,Total,1+,2011–2012,0.77,0.0117,0.75,0.79,1.53,4280.0,557025.0
+Saskatchewan,Both sexes,Total,1+,2012–2013,0.74,0.0081,0.73,0.76,1.09,8350.0,1125055.0
+Saskatchewan,Females,Total,1+,2012–2013,0.71,0.0113,0.69,0.73,1.58,3985.0,560855.0
+Saskatchewan,Males,Total,1+,2012–2013,0.77,0.0117,0.75,0.8,1.51,4365.0,564200.0
+Saskatchewan,Both sexes,Total,1+,2013–2014,0.75,0.0081,0.74,0.77,1.08,8615.0,1147080.0
+Saskatchewan,Females,Total,1+,2013–2014,0.72,0.0112,0.7,0.74,1.56,4110.0,570400.0
+Saskatchewan,Males,Total,1+,2013–2014,0.78,0.0116,0.76,0.8,1.49,4505.0,576685.0
+Saskatchewan,Both sexes,Total,1+,2014–2015,0.76,0.008,0.74,0.77,1.06,8900.0,1174030.0
+Saskatchewan,Females,Total,1+,2014–2015,0.73,0.0112,0.71,0.75,1.53,4265.0,582690.0
+Saskatchewan,Males,Total,1+,2014–2015,0.78,0.0115,0.76,0.81,1.47,4635.0,591345.0
+Saskatchewan,Both sexes,Total,1+,2015–2016,0.78,0.0081,0.76,0.79,1.05,9150.0,1174785.0
+Saskatchewan,Females,Total,1+,2015–2016,0.75,0.0113,0.73,0.77,1.51,4385.0,583735.0
+Saskatchewan,Males,Total,1+,2015–2016,0.81,0.0117,0.78,0.83,1.45,4765.0,591050.0
+Saskatchewan,Both sexes,Total,1+,2016–2017,0.79,0.0081,0.77,0.8,1.03,9405.0,1196155.0
+Saskatchewan,Females,Total,1+,2016–2017,0.76,0.0113,0.74,0.78,1.49,4525.0,594095.0
+Saskatchewan,Males,Total,1+,2016–2017,0.81,0.0116,0.79,0.83,1.43,4875.0,602050.0
+Saskatchewan,Both sexes,Total,1+,2017–2018,0.79,0.0081,0.78,0.81,1.02,9640.0,1215095.0
+Saskatchewan,Females,Total,1+,2017–2018,0.77,0.0113,0.75,0.79,1.47,4645.0,603015.0
+Saskatchewan,Males,Total,1+,2017–2018,0.82,0.0115,0.79,0.84,1.41,4995.0,612085.0
+Saskatchewan,Both sexes,Total,1+,2018–2019,0.8,0.008,0.78,0.82,1.01,9895.0,1238000.0
+Saskatchewan,Females,Total,1+,2018–2019,0.78,0.0113,0.76,0.8,1.45,4780.0,613955.0
+Saskatchewan,Males,Total,1+,2018–2019,0.82,0.0115,0.8,0.84,1.4,5115.0,624050.0
+Saskatchewan,Both sexes,Total,1+,2019–2020,0.81,0.0081,0.79,0.83,1.0,10020.0,1236780.0
+Saskatchewan,Females,Total,1+,2019–2020,0.79,0.0113,0.76,0.81,1.44,4830.0,614100.0
+Saskatchewan,Males,Total,1+,2019–2020,0.83,0.0116,0.81,0.86,1.39,5190.0,622680.0
+Saskatchewan,Both sexes,Total,1+,2020–2021,0.82,0.0081,0.81,0.84,0.99,10255.0,1246010.0
+Saskatchewan,Females,Total,1+,2020–2021,0.8,0.0114,0.78,0.82,1.42,4940.0,618545.0
+Saskatchewan,Males,Total,1+,2020–2021,0.85,0.0116,0.82,0.87,1.37,5310.0,627465.0
+Saskatchewan,Both sexes,Total,1+,2021–2022,0.83,0.0081,0.82,0.85,0.98,10505.0,1259900.0
+Saskatchewan,Females,Total,1+,2021–2022,0.81,0.0114,0.79,0.83,1.41,5055.0,625100.0
+Saskatchewan,Males,Total,1+,2021–2022,0.86,0.0116,0.84,0.88,1.36,5445.0,634795.0
+Saskatchewan,Both sexes,Total,1+,2022–2023,0.84,0.0081,0.82,0.85,0.97,10625.0,1270990.0
+Saskatchewan,Females,Total,1+,2022–2023,0.81,0.0113,0.79,0.83,1.4,5105.0,631330.0
+Saskatchewan,Males,Total,1+,2022–2023,0.86,0.0116,0.84,0.89,1.35,5525.0,639665.0
+Saskatchewan,Both sexes,Total,1+,2023–2024,0.83,0.008,0.81,0.85,0.96,10860.0,1308595.0
+Saskatchewan,Females,Total,1+,2023–2024,0.81,0.0111,0.78,0.83,1.38,5230.0,649100.0
+Saskatchewan,Males,Total,1+,2023–2024,0.85,0.0114,0.83,0.88,1.33,5625.0,659490.0
+Alberta,Both sexes,Total,1+,2005–2006,0.65,0.0044,0.64,0.66,0.68,21715.0,3328265.0
+Alberta,Females,Total,1+,2005–2006,0.64,0.0062,0.63,0.66,0.97,10710.0,1664315.0
+Alberta,Males,Total,1+,2005–2006,0.66,0.0063,0.65,0.67,0.95,11000.0,1663950.0
+Alberta,Both sexes,Total,1+,2006–2007,0.68,0.0044,0.67,0.68,0.66,23225.0,3434655.0
+Alberta,Females,Total,1+,2006–2007,0.67,0.0062,0.66,0.68,0.93,11480.0,1716575.0
+Alberta,Males,Total,1+,2006–2007,0.68,0.0063,0.67,0.7,0.92,11735.0,1718070.0
+Alberta,Both sexes,Total,1+,2007–2008,0.7,0.0044,0.69,0.71,0.64,24590.0,3530710.0
+Alberta,Females,Total,1+,2007–2008,0.69,0.0062,0.68,0.7,0.91,12130.0,1762770.0
+Alberta,Males,Total,1+,2007–2008,0.7,0.0063,0.69,0.72,0.9,12460.0,1767940.0
+Alberta,Both sexes,Total,1+,2008–2009,0.71,0.0044,0.7,0.72,0.62,25820.0,3627130.0
+Alberta,Females,Total,1+,2008–2009,0.7,0.0062,0.69,0.71,0.89,12720.0,1810115.0
+Alberta,Males,Total,1+,2008–2009,0.72,0.0063,0.71,0.73,0.87,13100.0,1817010.0
+Alberta,Both sexes,Total,1+,2009–2010,0.73,0.0044,0.72,0.74,0.61,27110.0,3711025.0
+Alberta,Females,Total,1+,2009–2010,0.72,0.0062,0.71,0.73,0.86,13375.0,1850845.0
+Alberta,Males,Total,1+,2009–2010,0.74,0.0063,0.73,0.75,0.85,13740.0,1860185.0
+Alberta,Both sexes,Total,1+,2010–2011,0.75,0.0044,0.74,0.76,0.59,28490.0,3810640.0
+Alberta,Females,Total,1+,2010–2011,0.74,0.0062,0.73,0.75,0.85,14000.0,1898410.0
+Alberta,Males,Total,1+,2010–2011,0.76,0.0063,0.75,0.77,0.83,14490.0,1912225.0
+Alberta,Both sexes,Total,1+,2011–2012,0.76,0.0044,0.76,0.77,0.58,29975.0,3924350.0
+Alberta,Females,Total,1+,2011–2012,0.75,0.0062,0.74,0.77,0.82,14715.0,1951895.0
+Alberta,Males,Total,1+,2011–2012,0.77,0.0063,0.76,0.79,0.81,15265.0,1972460.0
+Alberta,Both sexes,Total,1+,2012–2013,0.77,0.0043,0.76,0.78,0.56,31360.0,4080705.0
+Alberta,Females,Total,1+,2012–2013,0.76,0.0061,0.75,0.77,0.81,15375.0,2022835.0
+Alberta,Males,Total,1+,2012–2013,0.78,0.0061,0.76,0.79,0.79,15985.0,2057875.0
+Alberta,Both sexes,Total,1+,2013–2014,0.77,0.0043,0.77,0.78,0.55,32835.0,4241310.0
+Alberta,Females,Total,1+,2013–2014,0.77,0.006,0.76,0.78,0.79,16080.0,2096210.0
+Alberta,Males,Total,1+,2013–2014,0.78,0.006,0.77,0.79,0.77,16755.0,2145095.0
+Alberta,Both sexes,Total,1+,2014–2015,0.78,0.0042,0.77,0.79,0.54,34330.0,4384460.0
+Alberta,Females,Total,1+,2014–2015,0.77,0.006,0.76,0.79,0.77,16760.0,2162975.0
+Alberta,Males,Total,1+,2014–2015,0.79,0.006,0.78,0.8,0.75,17570.0,2221490.0
+Alberta,Both sexes,Total,1+,2015–2016,0.8,0.0042,0.79,0.81,0.53,35925.0,4487945.0
+Alberta,Females,Total,1+,2015–2016,0.79,0.006,0.78,0.8,0.76,17455.0,2214790.0
+Alberta,Males,Total,1+,2015–2016,0.81,0.006,0.8,0.82,0.74,18470.0,2273155.0
+Alberta,Both sexes,Total,1+,2016–2017,0.82,0.0043,0.82,0.83,0.52,37565.0,4557685.0
+Alberta,Females,Total,1+,2016–2017,0.81,0.006,0.8,0.82,0.74,18275.0,2252760.0
+Alberta,Males,Total,1+,2016–2017,0.84,0.006,0.83,0.85,0.72,19290.0,2304925.0
+Alberta,Both sexes,Total,1+,2017–2018,0.84,0.0043,0.84,0.85,0.51,39065.0,4627405.0
+Alberta,Females,Total,1+,2017–2018,0.83,0.006,0.82,0.84,0.73,19000.0,2288655.0
+Alberta,Males,Total,1+,2017–2018,0.86,0.0061,0.85,0.87,0.71,20065.0,2338750.0
+Alberta,Both sexes,Total,1+,2018–2019,0.86,0.0043,0.85,0.87,0.5,40630.0,4714980.0
+Alberta,Females,Total,1+,2018–2019,0.85,0.006,0.83,0.86,0.71,19745.0,2332230.0
+Alberta,Males,Total,1+,2018–2019,0.88,0.0061,0.86,0.89,0.69,20885.0,2382750.0
+Alberta,Both sexes,Total,1+,2019–2020,0.88,0.0043,0.87,0.89,0.49,42220.0,4807300.0
+Alberta,Females,Total,1+,2019–2020,0.86,0.006,0.85,0.87,0.7,20495.0,2378730.0
+Alberta,Males,Total,1+,2019–2020,0.89,0.0061,0.88,0.91,0.68,21725.0,2428565.0
+Alberta,Both sexes,Total,1+,2020–2021,0.9,0.0043,0.89,0.91,0.48,43870.0,4857365.0
+Alberta,Females,Total,1+,2020–2021,0.88,0.0061,0.87,0.9,0.69,21265.0,2403850.0
+Alberta,Males,Total,1+,2020–2021,0.92,0.0061,0.91,0.93,0.67,22605.0,2453510.0
+Alberta,Both sexes,Total,1+,2021–2022,0.92,0.0043,0.91,0.93,0.47,45350.0,4945430.0
+Alberta,Females,Total,1+,2021–2022,0.9,0.0061,0.89,0.91,0.67,21975.0,2447900.0
+Alberta,Males,Total,1+,2021–2022,0.94,0.0061,0.92,0.95,0.65,23375.0,2497530.0
+Alberta,Both sexes,Total,1+,2022–2023,0.91,0.0042,0.9,0.92,0.46,46765.0,5127640.0
+Alberta,Females,Total,1+,2022–2023,0.89,0.0059,0.88,0.9,0.66,22665.0,2539350.0
+Alberta,Males,Total,1+,2022–2023,0.93,0.006,0.92,0.94,0.64,24095.0,2588285.0
+Alberta,Both sexes,Total,1+,2023–2024,0.9,0.0041,0.9,0.91,0.45,48340.0,5351835.0
+Alberta,Females,Total,1+,2023–2024,0.88,0.0058,0.87,0.9,0.65,23425.0,2649735.0
+Alberta,Males,Total,1+,2023–2024,0.92,0.0058,0.91,0.93,0.63,24915.0,2702095.0
+British Columbia,Both sexes,Total,1+,2005–2006,0.59,0.0037,0.58,0.6,0.63,25315.0,4298480.0
+British Columbia,Females,Total,1+,2005–2006,0.56,0.0051,0.55,0.57,0.91,12180.0,2165765.0
+British Columbia,Males,Total,1+,2005–2006,0.62,0.0054,0.61,0.63,0.87,13135.0,2132720.0
+British Columbia,Both sexes,Total,1+,2006–2007,0.61,0.0038,0.61,0.62,0.61,26660.0,4341485.0
+British Columbia,Females,Total,1+,2006–2007,0.59,0.0052,0.58,0.6,0.88,12825.0,2190250.0
+British Columbia,Males,Total,1+,2006–2007,0.64,0.0055,0.63,0.65,0.85,13830.0,2151235.0
+British Columbia,Both sexes,Total,1+,2007–2008,0.64,0.0038,0.63,0.65,0.6,28145.0,4405400.0
+British Columbia,Females,Total,1+,2007–2008,0.61,0.0052,0.6,0.62,0.86,13505.0,2221640.0
+British Columbia,Males,Total,1+,2007–2008,0.67,0.0055,0.66,0.68,0.83,14640.0,2183755.0
+British Columbia,Both sexes,Total,1+,2008–2009,0.66,0.0039,0.66,0.67,0.58,29655.0,4471920.0
+British Columbia,Females,Total,1+,2008–2009,0.63,0.0053,0.62,0.64,0.84,14240.0,2254720.0
+British Columbia,Males,Total,1+,2008–2009,0.7,0.0056,0.68,0.71,0.81,15415.0,2217195.0
+British Columbia,Both sexes,Total,1+,2009–2010,0.68,0.0039,0.68,0.69,0.57,30900.0,4526650.0
+British Columbia,Females,Total,1+,2009–2010,0.65,0.0053,0.64,0.66,0.82,14790.0,2283910.0
+British Columbia,Males,Total,1+,2009–2010,0.72,0.0057,0.71,0.73,0.79,16110.0,2242745.0
+British Columbia,Both sexes,Total,1+,2010–2011,0.71,0.0039,0.7,0.71,0.56,32420.0,4586040.0
+British Columbia,Females,Total,1+,2010–2011,0.67,0.0054,0.66,0.68,0.8,15520.0,2314035.0
+British Columbia,Males,Total,1+,2010–2011,0.74,0.0057,0.73,0.75,0.77,16895.0,2271995.0
+British Columbia,Both sexes,Total,1+,2011–2012,0.73,0.004,0.73,0.74,0.54,34050.0,4634265.0
+British Columbia,Females,Total,1+,2011–2012,0.7,0.0055,0.69,0.71,0.78,16315.0,2338350.0
+British Columbia,Males,Total,1+,2011–2012,0.77,0.0058,0.76,0.78,0.75,17735.0,2295915.0
+British Columbia,Both sexes,Total,1+,2012–2013,0.76,0.004,0.75,0.77,0.53,35565.0,4673245.0
+British Columbia,Females,Total,1+,2012–2013,0.72,0.0055,0.71,0.73,0.77,16970.0,2358160.0
+British Columbia,Males,Total,1+,2012–2013,0.8,0.0059,0.79,0.81,0.73,18590.0,2315075.0
+British Columbia,Both sexes,Total,1+,2013–2014,0.79,0.0041,0.78,0.8,0.52,37060.0,4698765.0
+British Columbia,Females,Total,1+,2013–2014,0.75,0.0056,0.73,0.76,0.75,17680.0,2372425.0
+British Columbia,Males,Total,1+,2013–2014,0.83,0.006,0.82,0.85,0.72,19385.0,2326350.0
+British Columbia,Both sexes,Total,1+,2014–2015,0.81,0.0041,0.81,0.82,0.51,38660.0,4747590.0
+British Columbia,Females,Total,1+,2014–2015,0.77,0.0057,0.76,0.78,0.74,18405.0,2398325.0
+British Columbia,Males,Total,1+,2014–2015,0.86,0.0061,0.85,0.87,0.7,20260.0,2349275.0
+British Columbia,Both sexes,Total,1+,2015–2016,0.84,0.0042,0.83,0.84,0.5,40260.0,4814920.0
+British Columbia,Females,Total,1+,2015–2016,0.79,0.0057,0.77,0.8,0.72,19105.0,2432475.0
+British Columbia,Males,Total,1+,2015–2016,0.89,0.0061,0.88,0.9,0.69,21155.0,2382450.0
+British Columbia,Both sexes,Total,1+,2016–2017,0.86,0.0042,0.85,0.87,0.49,41960.0,4894910.0
+British Columbia,Females,Total,1+,2016–2017,0.8,0.0057,0.79,0.81,0.71,19850.0,2472545.0
+British Columbia,Males,Total,1+,2016–2017,0.91,0.0061,0.9,0.92,0.67,22110.0,2422360.0
+British Columbia,Both sexes,Total,1+,2017–2018,0.88,0.0042,0.87,0.88,0.48,43730.0,4989935.0
+British Columbia,Females,Total,1+,2017–2018,0.82,0.0057,0.81,0.83,0.7,20690.0,2519585.0
+British Columbia,Males,Total,1+,2017–2018,0.93,0.0061,0.92,0.94,0.66,23045.0,2470355.0
+British Columbia,Both sexes,Total,1+,2018–2019,0.89,0.0042,0.88,0.9,0.47,45390.0,5089725.0
+British Columbia,Females,Total,1+,2018–2019,0.84,0.0057,0.82,0.85,0.68,21480.0,2569410.0
+British Columbia,Males,Total,1+,2018–2019,0.95,0.0061,0.94,0.96,0.65,23910.0,2520310.0
+British Columbia,Both sexes,Total,1+,2019–2020,0.9,0.0042,0.9,0.91,0.46,47045.0,5206940.0
+British Columbia,Females,Total,1+,2019–2020,0.85,0.0057,0.83,0.86,0.67,22230.0,2627810.0
+British Columbia,Males,Total,1+,2019–2020,0.96,0.0061,0.95,0.97,0.63,24815.0,2579130.0
+British Columbia,Both sexes,Total,1+,2020–2021,0.93,0.0042,0.92,0.94,0.45,49135.0,5274105.0
+British Columbia,Females,Total,1+,2020–2021,0.87,0.0057,0.86,0.88,0.66,23155.0,2662800.0
+British Columbia,Males,Total,1+,2020–2021,0.99,0.0062,0.98,1.01,0.62,25975.0,2611305.0
+British Columbia,Both sexes,Total,1+,2021–2022,0.94,0.0042,0.94,0.95,0.44,51160.0,5421865.0
+British Columbia,Females,Total,1+,2021–2022,0.88,0.0057,0.87,0.89,0.64,24190.0,2737915.0
+British Columbia,Males,Total,1+,2021–2022,1.0,0.0061,0.99,1.02,0.61,26970.0,2683945.0
+British Columbia,Both sexes,Total,1+,2022–2023,0.95,0.0041,0.94,0.96,0.43,53165.0,5611275.0
+British Columbia,Females,Total,1+,2022–2023,0.89,0.0056,0.88,0.9,0.63,25180.0,2833305.0
+British Columbia,Males,Total,1+,2022–2023,1.01,0.006,1.0,1.02,0.6,27990.0,2777970.0
+British Columbia,Both sexes,Total,1+,2023–2024,0.96,0.0041,0.95,0.96,0.42,55505.0,5805150.0
+British Columbia,Females,Total,1+,2023–2024,0.9,0.0055,0.89,0.91,0.62,26325.0,2930265.0
+British Columbia,Males,Total,1+,2023–2024,1.01,0.0059,1.0,1.03,0.59,29180.0,2874880.0
+Yukon,Both sexes,Total,1+,2005–2006,,,,,,,
+Yukon,Females,Total,1+,2005–2006,,,,,,,
+Yukon,Males,Total,1+,2005–2006,,,,,,,
+Yukon,Both sexes,Total,1+,2006–2007,,,,,,,
+Yukon,Females,Total,1+,2006–2007,,,,,,,
+Yukon,Males,Total,1+,2006–2007,,,,,,,
+Yukon,Both sexes,Total,1+,2007–2008,,,,,,,
+Yukon,Females,Total,1+,2007–2008,,,,,,,
+Yukon,Males,Total,1+,2007–2008,,,,,,,
+Yukon,Both sexes,Total,1+,2008–2009,,,,,,,
+Yukon,Females,Total,1+,2008–2009,,,,,,,
+Yukon,Males,Total,1+,2008–2009,,,,,,,
+Yukon,Both sexes,Total,1+,2009–2010,,,,,,,
+Yukon,Females,Total,1+,2009–2010,,,,,,,
+Yukon,Males,Total,1+,2009–2010,,,,,,,
+Yukon,Both sexes,Total,1+,2010–2011,0.47,0.0357,0.4,0.54,7.67,170.0,36540.0
+Yukon,Females,Total,1+,2010–2011,0.34,0.0434,0.26,0.43,12.91,60.0,17840.0
+Yukon,Males,Total,1+,2010–2011,0.59,0.0561,0.48,0.7,9.53,110.0,18700.0
+Yukon,Both sexes,Total,1+,2011–2012,0.48,0.0359,0.41,0.55,7.45,180.0,37345.0
+Yukon,Females,Total,1+,2011–2012,0.33,0.0424,0.25,0.42,12.91,60.0,18280.0
+Yukon,Males,Total,1+,2011–2012,0.63,0.0574,0.52,0.75,9.13,120.0,19070.0
+Yukon,Both sexes,Total,1+,2012–2013,0.51,0.0364,0.44,0.58,7.16,195.0,38320.0
+Yukon,Females,Total,1+,2012–2013,0.37,0.0448,0.29,0.47,11.95,70.0,18695.0
+Yukon,Males,Total,1+,2012–2013,0.64,0.057,0.53,0.75,8.94,125.0,19620.0
+Yukon,Both sexes,Total,1+,2013–2014,0.55,0.0378,0.48,0.63,6.82,215.0,38770.0
+Yukon,Females,Total,1+,2013–2014,0.4,0.0459,0.31,0.49,11.55,75.0,18885.0
+Yukon,Males,Total,1+,2013–2014,0.7,0.0595,0.59,0.83,8.45,140.0,19890.0
+Yukon,Both sexes,Total,1+,2014–2015,0.62,0.0399,0.55,0.71,6.39,245.0,39230.0
+Yukon,Females,Total,1+,2014–2015,0.5,0.0509,0.4,0.6,10.26,95.0,19150.0
+Yukon,Males,Total,1+,2014–2015,0.75,0.061,0.63,0.87,8.16,150.0,20080.0
+Yukon,Both sexes,Total,1+,2015–2016,0.68,0.0412,0.6,0.76,6.09,270.0,39890.0
+Yukon,Females,Total,1+,2015–2016,0.54,0.0525,0.44,0.65,9.76,105.0,19500.0
+Yukon,Males,Total,1+,2015–2016,0.78,0.0621,0.67,0.91,7.91,160.0,20385.0
+Yukon,Both sexes,Total,1+,2016–2017,0.67,0.0407,0.6,0.76,6.03,275.0,40760.0
+Yukon,Females,Total,1+,2016–2017,0.55,0.0525,0.45,0.66,9.53,110.0,19960.0
+Yukon,Males,Total,1+,2016–2017,0.79,0.0617,0.68,0.92,7.78,165.0,20805.0
+Yukon,Both sexes,Total,1+,2017–2018,0.69,0.0407,0.62,0.78,5.87,290.0,41830.0
+Yukon,Females,Total,1+,2017–2018,0.59,0.0534,0.49,0.69,9.13,120.0,20510.0
+Yukon,Males,Total,1+,2017–2018,0.82,0.062,0.7,0.95,7.56,175.0,21325.0
+Yukon,Both sexes,Total,1+,2018–2019,0.73,0.0414,0.65,0.81,5.68,310.0,42495.0
+Yukon,Females,Total,1+,2018–2019,0.6,0.0536,0.5,0.71,8.94,125.0,20860.0
+Yukon,Males,Total,1+,2018–2019,0.83,0.062,0.72,0.96,7.45,180.0,21630.0
+Yukon,Both sexes,Total,1+,2019–2020,0.74,0.0412,0.66,0.82,5.59,320.0,43440.0
+Yukon,Females,Total,1+,2019–2020,0.59,0.0524,0.49,0.69,8.94,125.0,21350.0
+Yukon,Males,Total,1+,2019–2020,0.88,0.0632,0.76,1.01,7.16,195.0,22095.0
+Yukon,Both sexes,Total,1+,2020–2021,0.76,0.0416,0.68,0.84,5.46,335.0,44030.0
+Yukon,Females,Total,1+,2020–2021,0.62,0.0535,0.52,0.73,8.61,135.0,21715.0
+Yukon,Males,Total,1+,2020–2021,0.9,0.0634,0.78,1.02,7.07,200.0,22315.0
+Yukon,Both sexes,Total,1+,2021–2022,0.81,0.0424,0.73,0.9,5.23,365.0,45010.0
+Yukon,Females,Total,1+,2021–2022,0.68,0.0552,0.57,0.79,8.16,150.0,22205.0
+Yukon,Males,Total,1+,2021–2022,0.96,0.065,0.84,1.1,6.74,220.0,22805.0
+Yukon,Both sexes,Total,1+,2022–2023,0.83,0.0424,0.75,0.91,5.13,380.0,46005.0
+Yukon,Females,Total,1+,2022–2023,0.66,0.0541,0.56,0.77,8.16,150.0,22620.0
+Yukon,Males,Total,1+,2022–2023,0.98,0.0649,0.86,1.11,6.59,230.0,23380.0
+Yukon,Both sexes,Total,1+,2023–2024,0.82,0.0418,0.74,0.9,5.1,385.0,46975.0
+Yukon,Females,Total,1+,2023–2024,0.67,0.0538,0.57,0.78,8.03,155.0,23135.0
+Yukon,Males,Total,1+,2023–2024,0.94,0.0629,0.82,1.07,6.67,225.0,23830.0
+Northwest Territories,Both sexes,Total,1+,2005–2006,0.68,0.0382,0.61,0.76,5.63,315.0,46415.0
+Northwest Territories,Females,Total,1+,2005–2006,0.65,0.0538,0.55,0.76,8.3,145.0,22395.0
+Northwest Territories,Males,Total,1+,2005–2006,0.73,0.0551,0.62,0.84,7.56,175.0,24025.0
+Northwest Territories,Both sexes,Total,1+,2006–2007,0.73,0.0397,0.66,0.81,5.42,340.0,46450.0
+Northwest Territories,Females,Total,1+,2006–2007,0.67,0.0545,0.57,0.78,8.16,150.0,22465.0
+Northwest Territories,Males,Total,1+,2006–2007,0.79,0.0575,0.68,0.91,7.25,190.0,23985.0
+Northwest Territories,Both sexes,Total,1+,2007–2008,0.73,0.0393,0.65,0.81,5.38,345.0,47300.0
+Northwest Territories,Females,Total,1+,2007–2008,0.65,0.0534,0.55,0.76,8.16,150.0,22930.0
+Northwest Territories,Males,Total,1+,2007–2008,0.78,0.0566,0.67,0.89,7.25,190.0,24360.0
+Northwest Territories,Both sexes,Total,1+,2008–2009,0.72,0.0387,0.65,0.8,5.38,345.0,47945.0
+Northwest Territories,Females,Total,1+,2008–2009,0.67,0.0536,0.57,0.78,8.03,155.0,23225.0
+Northwest Territories,Males,Total,1+,2008–2009,0.79,0.0565,0.68,0.9,7.16,195.0,24725.0
+Northwest Territories,Both sexes,Total,1+,2009–2010,0.73,0.0388,0.66,0.81,5.31,355.0,48565.0
+Northwest Territories,Females,Total,1+,2009–2010,0.68,0.0537,0.58,0.79,7.91,160.0,23565.0
+Northwest Territories,Males,Total,1+,2009–2010,0.78,0.0559,0.67,0.89,7.16,195.0,25000.0
+Northwest Territories,Both sexes,Total,1+,2010–2011,0.78,0.0419,0.7,0.86,5.38,345.0,44280.0
+Northwest Territories,Females,Total,1+,2010–2011,0.69,0.0561,0.58,0.8,8.16,150.0,21835.0
+Northwest Territories,Males,Total,1+,2010–2011,0.87,0.0622,0.75,0.99,7.16,195.0,22450.0
+Northwest Territories,Both sexes,Total,1+,2011–2012,0.79,0.0417,0.71,0.88,5.27,360.0,45500.0
+Northwest Territories,Females,Total,1+,2011–2012,0.69,0.0556,0.59,0.81,8.03,155.0,22385.0
+Northwest Territories,Males,Total,1+,2011–2012,0.87,0.0612,0.75,0.99,7.07,200.0,23115.0
+Northwest Territories,Both sexes,Total,1+,2012–2013,0.8,0.0415,0.72,0.89,5.16,375.0,46655.0
+Northwest Territories,Females,Total,1+,2012–2013,0.72,0.0561,0.61,0.83,7.78,165.0,22895.0
+Northwest Territories,Males,Total,1+,2012–2013,0.9,0.0617,0.79,1.03,6.82,215.0,23760.0
+Northwest Territories,Both sexes,Total,1+,2013–2014,0.8,0.0412,0.72,0.88,5.16,375.0,46995.0
+Northwest Territories,Females,Total,1+,2013–2014,0.72,0.0558,0.61,0.83,7.78,165.0,23030.0
+Northwest Territories,Males,Total,1+,2013–2014,0.88,0.0605,0.76,1.0,6.9,210.0,23965.0
+Northwest Territories,Both sexes,Total,1+,2014–2015,0.84,0.0429,0.76,0.93,5.1,385.0,45715.0
+Northwest Territories,Females,Total,1+,2014–2015,0.73,0.057,0.62,0.85,7.78,165.0,22530.0
+Northwest Territories,Males,Total,1+,2014–2015,0.95,0.064,0.83,1.08,6.74,220.0,23185.0
+Northwest Territories,Both sexes,Total,1+,2015–2016,0.84,0.0427,0.76,0.93,5.06,390.0,46255.0
+Northwest Territories,Females,Total,1+,2015–2016,0.73,0.0565,0.62,0.84,7.78,165.0,22735.0
+Northwest Territories,Males,Total,1+,2015–2016,0.98,0.0645,0.86,1.11,6.59,230.0,23520.0
+Northwest Territories,Both sexes,Total,1+,2016–2017,0.85,0.0427,0.77,0.93,5.03,395.0,46565.0
+Northwest Territories,Females,Total,1+,2016–2017,0.74,0.057,0.64,0.86,7.67,170.0,22885.0
+Northwest Territories,Males,Total,1+,2016–2017,0.95,0.0633,0.83,1.08,6.67,225.0,23680.0
+Northwest Territories,Both sexes,Total,1+,2017–2018,0.89,0.0441,0.81,0.98,4.94,410.0,45955.0
+Northwest Territories,Females,Total,1+,2017–2018,0.79,0.0592,0.68,0.91,7.45,180.0,22670.0
+Northwest Territories,Males,Total,1+,2017–2018,0.99,0.0651,0.86,1.12,6.59,230.0,23290.0
+Northwest Territories,Both sexes,Total,1+,2018–2019,0.91,0.0443,0.82,1.0,4.88,420.0,46255.0
+Northwest Territories,Females,Total,1+,2018–2019,0.81,0.0597,0.7,0.93,7.35,185.0,22800.0
+Northwest Territories,Males,Total,1+,2018–2019,1.0,0.0654,0.88,1.13,6.52,235.0,23450.0
+Northwest Territories,Both sexes,Total,1+,2019–2020,0.92,0.0444,0.83,1.0,4.85,425.0,46435.0
+Northwest Territories,Females,Total,1+,2019–2020,0.83,0.0602,0.72,0.95,7.25,190.0,22890.0
+Northwest Territories,Males,Total,1+,2019–2020,1.02,0.0658,0.89,1.15,6.45,240.0,23545.0
+Northwest Territories,Both sexes,Total,1+,2020–2021,0.95,0.0455,0.86,1.04,4.79,435.0,45795.0
+Northwest Territories,Females,Total,1+,2020–2021,0.84,0.0608,0.72,0.96,7.25,190.0,22655.0
+Northwest Territories,Males,Total,1+,2020–2021,1.06,0.0676,0.93,1.2,6.39,245.0,23145.0
+Northwest Territories,Both sexes,Total,1+,2021–2022,0.96,0.0456,0.87,1.05,4.77,440.0,45990.0
+Northwest Territories,Females,Total,1+,2021–2022,0.83,0.0605,0.72,0.96,7.25,190.0,22785.0
+Northwest Territories,Males,Total,1+,2021–2022,1.08,0.0681,0.95,1.21,6.32,250.0,23205.0
+Northwest Territories,Both sexes,Total,1+,2022–2023,0.96,0.0459,0.88,1.06,4.77,440.0,45665.0
+Northwest Territories,Females,Total,1+,2022–2023,0.86,0.0616,0.74,0.98,7.16,195.0,22675.0
+Northwest Territories,Males,Total,1+,2022–2023,1.07,0.0681,0.94,1.2,6.39,245.0,22990.0
+Northwest Territories,Both sexes,Total,1+,2023–2024,0.99,0.047,0.9,1.08,4.77,440.0,44630.0
+Northwest Territories,Females,Total,1+,2023–2024,0.9,0.0634,0.78,1.03,7.07,200.0,22300.0
+Northwest Territories,Males,Total,1+,2023–2024,1.07,0.0694,0.94,1.21,6.45,240.0,22330.0
+Nunavut,Both sexes,Total,1+,2005–2006,1.15,0.0609,1.03,1.27,5.31,355.0,30960.0
+Nunavut,Females,Total,1+,2005–2006,1.1,0.0855,0.94,1.27,7.78,165.0,15030.0
+Nunavut,Males,Total,1+,2005–2006,1.19,0.0865,1.03,1.37,7.25,190.0,15930.0
+Nunavut,Both sexes,Total,1+,2006–2007,1.25,0.0629,1.13,1.38,5.03,395.0,31595.0
+Nunavut,Females,Total,1+,2006–2007,1.2,0.0885,1.04,1.38,7.35,185.0,15370.0
+Nunavut,Males,Total,1+,2006–2007,1.29,0.0893,1.13,1.48,6.9,210.0,16220.0
+Nunavut,Both sexes,Total,1+,2007–2008,1.32,0.0648,1.2,1.45,4.91,415.0,31455.0
+Nunavut,Females,Total,1+,2007–2008,1.24,0.0901,1.07,1.42,7.25,190.0,15295.0
+Nunavut,Males,Total,1+,2007–2008,1.39,0.0928,1.22,1.58,6.67,225.0,16160.0
+Nunavut,Both sexes,Total,1+,2008–2009,1.37,0.0649,1.25,1.5,4.74,445.0,32480.0
+Nunavut,Females,Total,1+,2008–2009,1.33,0.0917,1.16,1.51,6.9,210.0,15805.0
+Nunavut,Males,Total,1+,2008–2009,1.44,0.0929,1.26,1.63,6.45,240.0,16680.0
+Nunavut,Both sexes,Total,1+,2009–2010,1.4,0.0644,1.27,1.53,4.61,470.0,33640.0
+Nunavut,Females,Total,1+,2009–2010,1.28,0.0885,1.11,1.46,6.9,210.0,16380.0
+Nunavut,Males,Total,1+,2009–2010,1.53,0.0943,1.36,1.73,6.14,265.0,17265.0
+Nunavut,Both sexes,Total,1+,2010–2011,1.45,0.0645,1.33,1.58,4.45,505.0,34815.0
+Nunavut,Females,Total,1+,2010–2011,1.3,0.0874,1.13,1.47,6.74,220.0,16975.0
+Nunavut,Males,Total,1+,2010–2011,1.6,0.0946,1.42,1.79,5.92,285.0,17840.0
+Nunavut,Both sexes,Total,1+,2011–2012,1.49,0.0645,1.37,1.62,4.32,535.0,35845.0
+Nunavut,Females,Total,1+,2011–2012,1.34,0.0876,1.18,1.52,6.52,235.0,17505.0
+Nunavut,Males,Total,1+,2011–2012,1.64,0.0944,1.46,1.83,5.77,300.0,18340.0
+Nunavut,Both sexes,Total,1+,2012–2013,1.57,0.0657,1.45,1.71,4.17,575.0,36515.0
+Nunavut,Females,Total,1+,2012–2013,1.4,0.0888,1.24,1.58,6.32,250.0,17810.0
+Nunavut,Males,Total,1+,2012–2013,1.71,0.0956,1.53,1.9,5.59,320.0,18705.0
+Nunavut,Both sexes,Total,1+,2013–2014,1.58,0.0658,1.45,1.71,4.17,575.0,36465.0
+Nunavut,Females,Total,1+,2013–2014,1.46,0.0907,1.29,1.64,6.2,260.0,17785.0
+Nunavut,Males,Total,1+,2013–2014,1.74,0.0965,1.55,1.93,5.55,325.0,18690.0
+Nunavut,Both sexes,Total,1+,2014–2015,1.59,0.0655,1.46,1.72,4.12,590.0,37100.0
+Nunavut,Females,Total,1+,2014–2015,1.43,0.0889,1.26,1.61,6.2,260.0,18135.0
+Nunavut,Males,Total,1+,2014–2015,1.74,0.0958,1.56,1.93,5.5,330.0,18965.0
+Nunavut,Both sexes,Total,1+,2015–2016,1.64,0.0657,1.51,1.77,4.02,620.0,37885.0
+Nunavut,Females,Total,1+,2015–2016,1.48,0.0895,1.31,1.66,6.03,275.0,18535.0
+Nunavut,Males,Total,1+,2015–2016,1.78,0.096,1.6,1.98,5.38,345.0,19350.0
+Nunavut,Both sexes,Total,1+,2016–2017,1.62,0.0645,1.5,1.75,3.98,630.0,38910.0
+Nunavut,Females,Total,1+,2016–2017,1.47,0.0881,1.31,1.65,5.98,280.0,19000.0
+Nunavut,Males,Total,1+,2016–2017,1.76,0.094,1.58,1.95,5.35,350.0,19905.0
+Nunavut,Both sexes,Total,1+,2017–2018,1.63,0.0641,1.5,1.76,3.94,645.0,39640.0
+Nunavut,Females,Total,1+,2017–2018,1.47,0.0873,1.31,1.65,5.92,285.0,19340.0
+Nunavut,Males,Total,1+,2017–2018,1.77,0.0935,1.6,1.96,5.27,360.0,20295.0
+Nunavut,Both sexes,Total,1+,2018–2019,1.64,0.0637,1.52,1.76,3.89,660.0,40300.0
+Nunavut,Females,Total,1+,2018–2019,1.5,0.0873,1.33,1.68,5.82,295.0,19665.0
+Nunavut,Males,Total,1+,2018–2019,1.77,0.0926,1.59,1.96,5.23,365.0,20630.0
+Nunavut,Both sexes,Total,1+,2019–2020,1.66,0.0643,1.54,1.79,3.86,670.0,40260.0
+Nunavut,Females,Total,1+,2019–2020,1.52,0.088,1.36,1.7,5.77,300.0,19680.0
+Nunavut,Males,Total,1+,2019–2020,1.8,0.0935,1.62,1.99,5.2,370.0,20575.0
+Nunavut,Both sexes,Total,1+,2020–2021,1.66,0.0642,1.54,1.79,3.86,670.0,40290.0
+Nunavut,Females,Total,1+,2020–2021,1.52,0.0879,1.36,1.7,5.77,300.0,19695.0
+Nunavut,Males,Total,1+,2020–2021,1.82,0.094,1.64,2.01,5.16,375.0,20600.0
+Nunavut,Both sexes,Total,1+,2021–2022,1.72,0.0649,1.6,1.85,3.77,705.0,40920.0
+Nunavut,Females,Total,1+,2021–2022,1.57,0.0887,1.4,1.75,5.63,315.0,20020.0
+Nunavut,Males,Total,1+,2021–2022,1.87,0.0945,1.69,2.06,5.06,390.0,20900.0
+Nunavut,Both sexes,Total,1+,2022–2023,1.76,0.0651,1.63,1.89,3.7,730.0,41505.0
+Nunavut,Females,Total,1+,2022–2023,1.6,0.0887,1.43,1.78,5.55,325.0,20320.0
+Nunavut,Males,Total,1+,2022–2023,1.91,0.095,1.73,2.1,4.97,405.0,21180.0
+Nunavut,Both sexes,Total,1+,2023–2024,1.76,0.0646,1.64,1.89,3.66,745.0,42260.0
+Nunavut,Females,Total,1+,2023–2024,1.67,0.0897,1.5,1.85,5.38,345.0,20705.0
+Nunavut,Males,Total,1+,2023–2024,1.88,0.0933,1.7,2.07,4.97,405.0,21560.0
