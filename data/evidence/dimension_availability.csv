@@ -1,0 +1,4 @@
+data_source,age,sex,geography,race_ethnicity,indigenous_identity,immigration_status
+"PHAC CCDSS epilepsy surveillance",Available,Available,Available,"Not available","Not available","Not available"
+"Published subgroup studies",Varies,Varies,Varies,"Limited and not nationally comparable","Limited; study-specific","Limited; study-specific"
+
