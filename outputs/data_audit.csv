@@ -1,0 +1,5 @@
+dataset,rows,columns,missing_prevalence,first_year,latest_year
+life_prevalence_trend,798,12,138,2005,2023
+active_prevalence_trend,798,12,138,2005,2023
+life_prevalence_age_distribution,6669,12,1143,2005,2023
+life_prevalence_age_standardized,798,12,138,2005,2023

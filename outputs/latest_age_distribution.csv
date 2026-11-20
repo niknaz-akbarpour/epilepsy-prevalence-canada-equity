@@ -1,0 +1,7 @@
+geography,sex,age_group_type,age_group,fiscal_year,prevalence_percent,standard_error,lower_95_ci,upper_95_ci,prevalence_cv_percent,case_counts,population
+Canada,Both sexes,Life course,1–19,2023–2024,0.63,0.0031,0.62,0.63,0.5,40280.0,6435095.0
+Canada,Both sexes,Life course,20–34,2023–2024,0.97,0.0038,0.96,0.97,0.39,65785.0,6812630.0
+Canada,Both sexes,Life course,35–49,2023–2024,0.92,0.0037,0.92,0.93,0.4,62540.0,6781175.0
+Canada,Both sexes,Life course,50–64,2023–2024,1.11,0.0042,1.1,1.12,0.38,68570.0,6177090.0
+Canada,Both sexes,Life course,65–79,2023–2024,1.24,0.0052,1.23,1.25,0.42,56590.0,4579015.0
+Canada,Both sexes,Life course,80+,2023–2024,1.3,0.009,1.28,1.32,0.7,20685.0,1593295.0

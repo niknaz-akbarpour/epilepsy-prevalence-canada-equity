@@ -1,0 +1,5 @@
+dataset,official_download_url
+life_prevalence_trend,https://health-infobase.canada.ca/ccdss/Download.aspx?i=17&s=5&b=t&l=eng
+active_prevalence_trend,https://health-infobase.canada.ca/ccdss/Download.aspx?i=18&s=5&b=t&l=eng
+life_prevalence_age_distribution,https://health-infobase.canada.ca/ccdss/Download.aspx?i=17&s=5&b=d&l=eng
+life_prevalence_age_standardized,https://health-infobase.canada.ca/ccdss/Download.aspx?i=17&s=2&b=t&l=eng

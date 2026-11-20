@@ -1,0 +1,12 @@
+geography,sex,age_group_type,age_group,fiscal_year,prevalence_percent,standard_error,lower_95_ci,upper_95_ci,prevalence_cv_percent,case_counts,population
+Nova Scotia,Both sexes,Total,1+,2023–2024,0.73,0.0079,0.71,0.74,1.09,8595.0,1149030.0
+Yukon,Both sexes,Total,1+,2023–2024,0.81,0.0423,0.73,0.9,5.2,385.0,46975.0
+Prince Edward Island,Both sexes,Total,1+,2023–2024,0.82,0.0214,0.78,0.87,2.6,1495.0,178460.0
+Saskatchewan,Both sexes,Total,1+,2023–2024,0.86,0.0083,0.84,0.87,0.97,10860.0,1308595.0
+Manitoba,Both sexes,Total,1+,2023–2024,0.87,0.0077,0.85,0.88,0.89,12725.0,1501930.0
+Alberta,Both sexes,Total,1+,2023–2024,0.93,0.0043,0.92,0.94,0.46,48340.0,5351835.0
+British Columbia,Both sexes,Total,1+,2023–2024,0.94,0.004,0.93,0.95,0.43,55505.0,5805150.0
+Ontario,Both sexes,Total,1+,2023–2024,1.02,0.0025,1.02,1.03,0.24,168800.0,16398910.0
+Northwest Territories,Both sexes,Total,1+,2023–2024,1.07,0.0532,0.97,1.19,4.98,440.0,44630.0
+Newfoundland and Labrador,Both sexes,Total,1+,2023–2024,1.13,0.0142,1.1,1.15,1.26,6570.0,550540.0
+Nunavut,Both sexes,Total,1+,2023–2024,1.91,0.0789,1.76,2.11,4.13,745.0,42260.0
