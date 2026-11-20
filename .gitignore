@@ -1,0 +1,11 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.DS_Store
+Thumbs.db
+
+# Raw downloads can be recreated from official endpoints
+data/raw/*.txt
+!data/raw/README.md
+

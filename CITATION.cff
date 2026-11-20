@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite this repository and the Public Health Agency of Canada CCDSS source."
+title: "Epilepsy Prevalence in Canada: R Analysis and Equity Data Audit"
+type: software
+authors:
+  - family-names: "Akbarpour"
+    given-names: "Niknaz"
+version: 0.1.0
+date-released: 2026-10-28
+license: MIT
+keywords:
+  - epilepsy
+  - prevalence
+  - Canada
+  - health equity
+  - R
+  - reproducible research
+
